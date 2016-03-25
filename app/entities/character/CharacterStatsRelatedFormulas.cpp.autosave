@@ -1,0 +1,39 @@
+#include "CharacterStatsRelatedFormulas.hpp"
+
+#include "CharacterStatsAccumulator.hpp"
+#include "../Character.hpp"
+
+namespace app
+{
+
+int CharacterStatsOrSkillsRelatedFormulas::getFallDamage(const Character &character, float force)
+{
+    const auto &characterStatsAccumulator = character.getCharacterStatsAccumulator();
+
+    float val{engine::Math::inverseLerp(k_fallDamageForceRange.from, k_fallDamageForceRange.to, force)};
+    val = engine::Math::clamp01(val);
+
+    int damage = static_cast <int> (val * k_maxFallDamage * characterStatsAccumulator.getFallDamageMultiplier());
+
+    return damage;
+}
+
+float CharacterStatsOrSkillsRelatedFormulas::getMoveSpeed(const Character &character)
+{
+    const auto &characterStatsAccumulator = character.getCharacterStatsAccumulator();
+
+    float takenDamageSlowdown{engine::Math::inverseLerp(0.f, k_takenDamageSlowdownTime, character.getMsSinceLastTakenDamage())};
+    takenDamageSlowdown = engine::Math::clamp01(takenDamageSlowdown);
+    takenDamageSlowdown = engine::Math::lerp(k_takenDamageSlowdownMoveSpeedMultiplier, 1.f, takenDamageSlowdown);
+
+    return k_baseMoveSpeed * characterStatsAccumulator.getMoveSpeedMultiplier() * takenDamageSlowdown;
+}
+
+const float CharacterStatsOrSkillsRelatedFormulas::k_baseMoveSpeed{7.32f};
+const int CharacterStatsOrSkillsRelatedFormulas::k_maxFallDamage{100};
+const float CharacterStatsOrSkillsRelatedFormulas::k_takenDamageSlowdownTime{1000.f};
+const float CharacterStatsOrSkillsRelatedFormulas::k_takenDamageSlowdownMoveSpeedMultiplier{0.5f};
+const engine::FloatRange CharacterStatsOrSkillsRelatedFormulas::k_fallDamageForceRange{18.f, 50.f};
+
+} // namespace app
+

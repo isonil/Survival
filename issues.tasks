@@ -1,0 +1,1190 @@
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\thisPlayer\ThisPlayer.cpp	30	err	cppcheck: Member variable 'ThisPlayer::m_structureCurrentlyDesignated' is not initialized in the constructor.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\thisPlayer\ThisPlayer.cpp	30	err	cppcheck: Member variable 'ThisPlayer::m_pointedEntity' is not initialized in the constructor.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\thisPlayer\ThisPlayer.cpp	30	err	cppcheck: Member variable 'ThisPlayer::m_deconstructionTracker' is not initialized in the constructor.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\world\World.cpp	32	err	cppcheck: Member variable 'World::m_spawnManager' is not initialized in the constructor.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\world\WorldPartTopographyInfo.cpp	19	err	cppcheck: syntax error
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\irrUString.hpp	1328	warn	cppcheck: Array index 'i' is used before limits check.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\irrUString.hpp	1347	warn	cppcheck: Array index 'i' is used before limits check.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\irrUString.hpp	1074	err	cppcheck: Member variable 'ustring16::encoding' is not assigned a value in 'ustring16::operator='.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGUITTFont.cpp	1026	warn	cppcheck: The scope of the variable 'current_char' can be reduced.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\irrUString.hpp	553	warn	cppcheck: Checking if unsigned variable 'v' is less than zero.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\irrUString.hpp	623	warn	cppcheck: Variable 'ret' is not assigned a value.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\irrUString.hpp	631	err	cppcheck: Uninitialized variable: ret
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\irrUString.hpp	642	err	cppcheck: Uninitialized variable: ret
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGridSceneNode.cpp	520	warn	cppcheck: Variable 'vertices' is assigned a value that is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\physics\HeightMapShape.cpp	23	err	cppcheck: syntax error
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	44	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	45	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	46	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	59	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	60	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	61	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	74	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	75	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	76	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	89	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	90	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	91	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	104	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	105	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	106	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	119	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	120	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	121	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	147	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	148	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	149	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	150	err	cppcheck: Assignment of function parameter has no effect outside the function.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\sceneNodes\Model.cpp	238	warn	cppcheck: The function 'OnAnimationEnd' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\managers\EventManager.cpp	63	warn	cppcheck: The function 'OnEvent' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\managers\ShadersManager.cpp	20	warn	cppcheck: The function 'OnSetConstants' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\entities\components\player\Skills.cpp	70	warn	cppcheck: The function 'addConstructingXp' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\entities\components\player\Skills.cpp	110	warn	cppcheck: The function 'addCraftingXp' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\GUI\widgets\WidgetContainer.cpp	191	warn	cppcheck: The function 'addEditBox' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\entities\components\player\Skills.cpp	130	warn	cppcheck: The function 'addElectronicsXp' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\managers\PhysicsManager.cpp	147	warn	cppcheck: The function 'addGhostObject' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGridSceneNode.cpp	563	warn	cppcheck: The function 'addGrid' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\managers\PhysicsManager.cpp	159	warn	cppcheck: The function 'addKinematicCharacterController' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\managers\PhysicsManager.cpp	175	warn	cppcheck: The function 'addRagdoll' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\entities\components\player\Skills.cpp	90	warn	cppcheck: The function 'addShootingXp' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGUITTFont.cpp	984	warn	cppcheck: The function 'addTextSceneNode' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\entities\components\player\Skills.cpp	40	warn	cppcheck: The function 'addXp' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\irrNodes\BillboardBatch.cpp	223	warn	cppcheck: The function 'applyVertexShadows' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Server.cpp	165	warn	cppcheck: The function 'broadcast' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	198	warn	cppcheck: The function 'changedBlue' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	193	warn	cppcheck: The function 'changedGreen' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Color.cpp	188	warn	cppcheck: The function 'changedRed' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\tests\test.cpp	443	warn	cppcheck: The function 'crashTest' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGUITTFont.cpp	911	warn	cppcheck: The function 'createTextureFromChar' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\LogManager.cpp	108	warn	cppcheck: The function 'debug' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\detail\GUIRenderer.cpp	178	warn	cppcheck: The function 'drawCloseButton' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\detail\GUIRenderer.cpp	197	warn	cppcheck: The function 'drawErrorIcon' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\detail\GUIRenderer.cpp	193	warn	cppcheck: The function 'drawWarningIcon' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\DefDatabase.cpp	14	warn	cppcheck: The function 'dropAllDefs' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\sceneNodes\Model.cpp	91	warn	cppcheck: The function 'enableManualJointManipulation' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Music.cpp	73	warn	cppcheck: The function 'fadeIn' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Music.cpp	79	warn	cppcheck: The function 'fadeOut' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\physics\RigidBody.cpp	209	warn	cppcheck: The function 'getAABBHeight' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGridSceneNode.cpp	214	warn	cppcheck: The function 'getAlignment' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\defs\parts\ItemFPPProperties.cpp	65	warn	cppcheck: The function 'getAnimationFramesSetDefPtr' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\entities\character\Inventory.cpp	46	warn	cppcheck: The function 'getArmorItemContainer' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\defs\PhysicalObjectDef.cpp	52	warn	cppcheck: The function 'getCachedCollisionShapeDefPtr' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGUITTFont.cpp	632	warn	cppcheck: The function 'getCharDimension' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\entities\Character.cpp	562	warn	cppcheck: The function 'getCharacterStatsAccumulatorPtr' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\defs\CachedCollisionShapeDef.cpp	80	warn	cppcheck: The function 'getCollisionShape' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Client.cpp	208	warn	cppcheck: The function 'getConnectionState' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Time.cpp	98	warn	cppcheck: The function 'getDay' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\managers\ShadersManager.cpp	300	warn	cppcheck: The function 'getDefaultShaderMaterialType' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\managers\ShadersManager.cpp	305	warn	cppcheck: The function 'getDeferredShaderMaterialType' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Def.cpp	37	warn	cppcheck: The function 'getDescription' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\managers\PhysicsManager.cpp	133	warn	cppcheck: The function 'getDynamicsWorld' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\GUI\widgets\MultiSlotItemContainerWidget.cpp	206	warn	cppcheck: The function 'getExactSlotTilePosAssumingNonOccluded' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGridSceneNode.cpp	258	warn	cppcheck: The function 'getGridColor' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGridSceneNode.cpp	288	warn	cppcheck: The function 'getGridLines' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGridSceneNode.cpp	593	warn	cppcheck: The function 'getGridsSize' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Time.cpp	103	warn	cppcheck: The function 'getHours' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\physics\Ragdoll.cpp	74	warn	cppcheck: The function 'getJointPosition' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\physics\Ragdoll.cpp	84	warn	cppcheck: The function 'getJointRotation' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGUITTFont.cpp	854	warn	cppcheck: The function 'getKerningHeight' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\managers\ShadersManager.cpp	330	warn	cppcheck: The function 'getLightToLightMapShaderMaterialType' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\entities\Character.cpp	525	warn	cppcheck: The function 'getLookVec' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\irrNodes\MeshBatch.cpp	347	warn	cppcheck: The function 'getMeshCount' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\defs\parts\WorldPartRandomMineable.cpp	33	warn	cppcheck: The function 'getMineableDef' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\defs\parts\ItemGathersResourcesProperties.cpp	29	warn	cppcheck: The function 'getMineableTags' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Time.cpp	108	warn	cppcheck: The function 'getMinutes' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\defs\CharacterDef.cpp	55	warn	cppcheck: The function 'getModelDef' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Time.cpp	93	warn	cppcheck: The function 'getMonth' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\entities\Character.cpp	576	warn	cppcheck: The function 'getNPCComponent' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGUITTFont.cpp	938	warn	cppcheck: The function 'getPageTextureByIndex' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Client.cpp	199	warn	cppcheck: The function 'getPing' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\sceneNodes\Light.cpp	120	warn	cppcheck: The function 'getRadius' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Time.cpp	113	warn	cppcheck: The function 'getSeconds' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\entities\character\Inventory.cpp	58	warn	cppcheck: The function 'getSpecialItemContainer' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\util\InterpolatedFloat.cpp	96	warn	cppcheck: The function 'getTargetValue' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\util\InterpolatedFloatVec3.cpp	90	warn	cppcheck: The function 'getTargetVec' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\defs\WorldPartDef.cpp	36	warn	cppcheck: The function 'getTerrainDef' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Time.cpp	59	warn	cppcheck: The function 'getUTC' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\defs\UpgradeDef.cpp	140	warn	cppcheck: The function 'getUnlockStructureRecipeDefs' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\defs\AnimationFramesSetDef.cpp	27	warn	cppcheck: The function 'getWalk' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Time.cpp	88	warn	cppcheck: The function 'getYear' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\sceneNodes\Model.cpp	99	warn	cppcheck: The function 'hasAnyJointsCurrently' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\GUI\widgets\Widget.cpp	63	warn	cppcheck: The function 'hasFocus' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\defs\MineableDef.cpp	52	warn	cppcheck: The function 'hasMineableTag' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\StringUtility.cpp	8	warn	cppcheck: The function 'isAlphaNumeric' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\entities\Character.cpp	512	warn	cppcheck: The function 'isNPC' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\defs\parts\OnUsedItem.cpp	69	warn	cppcheck: The function 'isWeapon' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Server.cpp	202	warn	cppcheck: The function 'kickUser' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\GUI\widgets\Widget.cpp	57	warn	cppcheck: The function 'moveToBeAfter' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\GUI\widgets\Widget.cpp	51	warn	cppcheck: The function 'moveToBeBefore' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\sceneNodes\Model.cpp	191	warn	cppcheck: The function 'playSingleAnimationAndThenLoop' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGridSceneNode.cpp	569	warn	cppcheck: The function 'removeGrid' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\irrNodes\BillboardBatch.cpp	252	warn	cppcheck: The function 'resetVertexShadows' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGridSceneNode.cpp	208	warn	cppcheck: The function 'setAlignment' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Packet.cpp	152	warn	cppcheck: The function 'setData' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGUITTFont.cpp	518	warn	cppcheck: The function 'setFontHinting' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGridSceneNode.cpp	397	warn	cppcheck: The function 'setGridVisibilityByDistToCamera' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGridSceneNode.cpp	584	warn	cppcheck: The function 'setGridsSize' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\physics\Ragdoll.cpp	54	warn	cppcheck: The function 'setJointPosition' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\physics\Ragdoll.cpp	64	warn	cppcheck: The function 'setJointRotation' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGUITTFont.cpp	833	warn	cppcheck: The function 'setKerningHeight' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGUITTFont.cpp	828	warn	cppcheck: The function 'setKerningWidth' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Version.cpp	70	warn	cppcheck: The function 'setMajor' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGridSceneNode.cpp	263	warn	cppcheck: The function 'setMaxRenderDistance' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Version.cpp	80	warn	cppcheck: The function 'setMinor' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGUITTFont.cpp	512	warn	cppcheck: The function 'setMonochrome' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\Device.cpp	150	warn	cppcheck: The function 'setNewVideoParams' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGridSceneNode.cpp	241	warn	cppcheck: The function 'setOffset' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\sceneNodes\Light.cpp	97	warn	cppcheck: The function 'setRadius' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Version.cpp	90	warn	cppcheck: The function 'setRevision' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\app3D\ext\CGUITTFont.cpp	506	warn	cppcheck: The function 'setTransparency' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Packet.cpp	147	warn	cppcheck: The function 'setType' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\app\util\InterpolatedFloat.cpp	84	warn	cppcheck: The function 'setValueWithoutInterpolation' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\Client.cpp	20	warn	cppcheck: The function 'startConnecting' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\tests\test.cpp	749	warn	cppcheck: The function 'test' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\tests\test.cpp	657	warn	cppcheck: The function 'testDataFile' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\tests\test.cpp	89	warn	cppcheck: The function 'testDate' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\tests\test.cpp	22	warn	cppcheck: The function 'testLogging' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\tests\test.cpp	98	warn	cppcheck: The function 'testRandom' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\tests\test.cpp	64	warn	cppcheck: The function 'testVersion' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\tests\test.cpp	479	warn	cppcheck: The function 'testYAML' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\StringUtility.cpp	31	warn	cppcheck: The function 'trimLeadingWhitespace' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\StringUtility.cpp	25	warn	cppcheck: The function 'trimTrailingWhitespace' is never used.
+C:\Users\ison\Documents\IsonData\C++\projects\Sandbox2\Client\Project\engine\util\StringUtility.cpp	37	warn	cppcheck: The function 'trimWhitespace' is never used.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/main.cpp	4	none	StyleParser: TODO:
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/main.cpp	129	none	StyleParser: TODO)
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/main.cpp	218	none	StyleParser: TODOs
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/util/Version.cpp	102	none	StyleParser: TODO: clean
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/tests/test.cpp	562	warn	StyleParser: Unnecessary " ", use ' ' instead.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/tests/test.cpp	563	warn	StyleParser: Unnecessary " ", use ' ' instead.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/tests/test.cpp	649	warn	StyleParser: Unnecessary " ", use ' ' instead.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/tests/test.cpp	771	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/tests/test.cpp	772	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/tests/test.cpp	852	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/tests/test.cpp	897	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/Device.cpp	29	none	StyleParser: TODO: make sure that dropIrrObjects() and reloadIrrObjects() are called for all
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/Device.cpp	135	none	StyleParser: TODO: add deferred rendering support
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/Device.cpp	362	none	StyleParser: TODO:
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/Device.cpp	445	none	StyleParser: TODO: engine user should somehow specify app title
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/Device.cpp	467	none	StyleParser: TODO: experimental (actually gives good results for scaled images)
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/App3D.cpp	13	none	StyleParser: TODO: temp
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/App3D.cpp	133	none	StyleParser: TODO: remove
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/util/Color.cpp	139	warn	StyleParser: Unnecessary " ", use ' ' instead.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/util/Color.cpp	140	warn	StyleParser: Unnecessary " ", use ' ' instead.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/util/Color.cpp	141	warn	StyleParser: Unnecessary " ", use ' ' instead.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/util/Color.cpp	142	warn	StyleParser: Unnecessary " ", use ' ' instead.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	11	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	11	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	11	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	24	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	35	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	37	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	70	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	74	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	74	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	77	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	79	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	81	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	87	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	88	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	97	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	101	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	103	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	104	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	110	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	111	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	112	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	113	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	130	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	137	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	143	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	143	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	143	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	143	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	144	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	144	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	144	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	144	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	153	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	157	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	162	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	162	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	163	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	163	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	172	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	176	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	181	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	181	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	182	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	182	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	189	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	189	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	189	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	189	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	189	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	189	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	189	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	189	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	189	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	291	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	291	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	294	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	296	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	313	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	321	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	336	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	336	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	352	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	354	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	360	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	361	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	368	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	371	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	371	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	383	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	391	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	399	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	399	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	403	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	405	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	405	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	405	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	405	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	405	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	408	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	420	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	426	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	426	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	431	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	439	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	449	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	449	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	451	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	463	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	463	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	465	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	476	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	476	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	484	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	485	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	485	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	490	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	490	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	492	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	499	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	503	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	503	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	521	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	521	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	522	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	522	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	522	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	522	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	522	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	524	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	587	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	587	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	94	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	327	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.cpp	328	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/detail/GUIRenderer.cpp	38	none	StyleParser: TODO: drop irrlicht resources in all textures
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/detail/GUIRenderer.cpp	49	none	StyleParser: TODO: reload irrlicht resources in all textures
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	133	none	StyleParser: TODO: error message?
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	148	none	StyleParser: TODO: error message?
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	166	none	StyleParser: TODO: add error message?
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	494	none	StyleParser: TODO: add error message?
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	77	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	90	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	93	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	97	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	119	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	122	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	141	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	147	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	162	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	165	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	192	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	204	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	206	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	213	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	224	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	226	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	234	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	264	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	270	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	273	warn	StyleParser: Unnecessary " ", use ' ' instead.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	282	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	283	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	284	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	297	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	298	warn	StyleParser: Unnecessary " ", use ' ' instead.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	303	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	308	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	312	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	314	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	327	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	329	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	340	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	342	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	369	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	398	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	403	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	407	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	415	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	422	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	426	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	436	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	438	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	446	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	451	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	464	warn	StyleParser: Unnecessary " ", use ' ' instead.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	466	warn	StyleParser: Unnecessary " ", use ' ' instead.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	468	warn	StyleParser: Unnecessary " ", use ' ' instead.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	477	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	479	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	484	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	485	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	486	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	487	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	490	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	493	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	497	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	527	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	531	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	542	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	546	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	549	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	563	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	568	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	570	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	571	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	574	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	577	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	582	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	588	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	619	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	623	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	627	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	661	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	665	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	668	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	674	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	685	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	689	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	697	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	715	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	720	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	737	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	743	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	759	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	763	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	769	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	779	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	782	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	789	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	808	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	817	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	840	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	842	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	867	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	877	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	885	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	917	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	940	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	960	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	960	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	960	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	960	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	960	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	961	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	961	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	961	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	961	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	961	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	961	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	961	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	961	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	962	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	962	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	962	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	962	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	962	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	962	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	962	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	962	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	963	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	963	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	963	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	963	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	963	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	963	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	963	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	964	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	964	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	964	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	964	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	964	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	964	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	964	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	978	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	992	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	993	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	998	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	1009	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	1031	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	1034	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	1035	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	1038	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	1041	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	1046	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	1051	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	1052	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	1058	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGUITTFont.cpp	1101	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/detail/GUITexture.cpp	59	none	StyleParser: TODO: figure out which is better, with material2D or without; same in GUIRenderer
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/irrNodes/MeshBatch.cpp	36	none	StyleParser: TODO: bool depending on current deferred status (pass to constructor?)
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/irrNodes/MeshBatch.cpp	71	none	StyleParser: TODO: find a better way to define infinite bounding box?
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/irrNodes/MeshBatch.cpp	94	none	StyleParser: TODO: remove?
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/irrNodes/MeshBatch.cpp	95	none	StyleParser: HACK: assuming transparent meshes don't want lighting
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/irrNodes/MeshBatch.cpp	103	none	StyleParser: HACK: forcing some specular for solid meshes, (maybe not really a hack? maybe it's good?)
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/irrNodes/BillboardBatch.cpp	27	none	StyleParser: TODO: bool depending on current deferred status (pass to constructor?)
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/irrNodes/BillboardBatch.cpp	70	none	StyleParser: TODO: find a better way to define infinite bounding box? m_boundingBox can be removed probably
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/irrNodes/BillboardBatch.cpp	88	none	StyleParser: TODO: true
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/irrNodes/BillboardBatch.cpp	89	none	StyleParser: TODO: true
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/irrNodes/BillboardBatch.cpp	229	none	StyleParser: TODO: either remove, or make it actually useful
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/managers/ShadersManager.cpp	13	none	StyleParser: TODO: use getPixelShaderConstantID and getVertexShaderConstantID
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/managers/ShadersManager.cpp	145	none	StyleParser: TODO: deferred rendering
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/managers/ResourcesManager.cpp	182	none	StyleParser: TODO: no texture arrays supported
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/managers/ResourcesManager.cpp	214	none	StyleParser: TODO: return missing texture array texture
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/managers/ResourcesManager.cpp	218	none	StyleParser: HACK (we have to lock and unlock to avoid OpenGL errors)
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/managers/ResourcesManager.cpp	219	none	StyleParser: HACK
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/managers/ResourcesManager.cpp	233	none	StyleParser: FIXME: Handle removing font, handle it in reloadIrrObjects, dropIrrObjects and in destructor.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/managers/ResourcesManager.cpp	251	none	StyleParser: FIXME: This function isn't exception safe.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/managers/ResourcesManager.cpp	252	none	StyleParser: TODO: Fix potential memory leaks (createImage allocates memory for new image).
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/managers/ResourcesManager.cpp	382	none	StyleParser: HACK: .obj materials have ADD_COLOR material assigned by Irrlicht for some reason
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/managers/ResourcesManager.cpp	392	none	StyleParser: HACK: assuming all materials with alpha channel ref should not use backface culling
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/sceneNodes/Model.cpp	488	none	StyleParser: TODO
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/app/Core.cpp	32	none	StyleParser: TODO: remove
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/app/Core.cpp	118	none	StyleParser: TODO: remove
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/sceneNodes/Terrain.cpp	83	none	StyleParser: TODO: check if the grid shouldn't have size: scale + 1, scale + 1
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/sceneNodes/Terrain.cpp	135	none	StyleParser: TODO: add boundaries check (include +eps and -eps for border cases)
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/app/world/WorldPart.cpp	91	none	StyleParser: TODO: Exception
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/app/world/WorldPart.cpp	98	none	StyleParser: TODO: Exception
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/app/entities/Character.cpp	527	none	StyleParser: TODO: check if this method calculates correct output
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/app/entities/Structure.cpp	102	none	StyleParser: TODO: return 2 for turrets
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/physics/KinematicCharacterController.cpp	71	none	StyleParser: HACK: Bullet Physics bug: walk direction can't be 0 (yes, it's a bug; it's not really 'direction')
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/physics/DynamicCharacterController.cpp	290	none	StyleParser: TODO HACK: temporary solution to movement problem (player sometimes becomes stuck)
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/physics/DynamicCharacterController.cpp	290	none	StyleParser: HACK: temporary solution to movement problem (player sometimes becomes stuck)
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/physics/DynamicCharacterController.cpp	303	none	StyleParser: TODO HACK: temporary solution to movement problem (player sometimes becomes stuck)
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/physics/DynamicCharacterController.cpp	303	none	StyleParser: HACK: temporary solution to movement problem (player sometimes becomes stuck)
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/GUI/widgets/EditBox.cpp	87	none	StyleParser: FIXME: temporary solution to check how it would look, TODO
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/GUI/widgets/EditBox.cpp	87	none	StyleParser: TODO
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/app/GUI/widgets/SingleSlotItemContainerWidget.cpp	83	none	StyleParser: TODO: not always weapon
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/physics/CollisionDetector.cpp	102	none	StyleParser: TODO: implement a better way to get collided objects,
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/app/entities/components/NPCComponent.cpp	524	none	StyleParser: TODO: add Position target (if there is no Entity target, then just wander around)
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/app/entities/components/NPCComponent.cpp	525	none	StyleParser: TODO: if changed Position target then set recalculate checkpoint timer to 0
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/app/thisPlayer/StructureCurrentlyDesignated.cpp	197	none	StyleParser: TODO: check all possibilities, not just one (there was a problem with collision detector not updating midframe)
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/app/world/WorldPartTopographyInfo.cpp	86	none	StyleParser: TODO
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/app/world/WorldPartTopographyInfo.cpp	144	none	StyleParser: TODO
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/app/world/WorldPartFreePosFinder.cpp	61	none	StyleParser: TODO FIXME: assuming that entity takes exactly 1 tile
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/app/world/WorldPartFreePosFinder.cpp	61	none	StyleParser: FIXME: assuming that entity takes exactly 1 tile
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/app/world/WorldPartFreePosFinder.cpp	219	none	StyleParser: TODO FIXME: assuming that entity takes exactly 1 tile
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/app/world/WorldPartFreePosFinder.cpp	219	none	StyleParser: FIXME: assuming that entity takes exactly 1 tile
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/app/world/WorldPartFreePosFinder.cpp	239	none	StyleParser: TODO: depr?
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/util/DataFile.hpp	184	none	StyleParser: HACK: this method is almost the same as 'var' for Saveable without default value;
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/util/DataFile.hpp	253	warn	StyleParser: Unnecessary " ", use ' ' instead.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/util/DataFile.hpp	278	warn	StyleParser: Unnecessary " ", use ' ' instead.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/util/DataFile.hpp	279	warn	StyleParser: Unnecessary " ", use ' ' instead.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/util/Vec2.hpp	199	warn	StyleParser: Unnecessary " ", use ' ' instead.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/util/Vec2.hpp	200	warn	StyleParser: Unnecessary " ", use ' ' instead.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/util/Vec3.hpp	210	warn	StyleParser: Unnecessary " ", use ' ' instead.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/util/Vec3.hpp	211	warn	StyleParser: Unnecessary " ", use ' ' instead.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/util/Vec3.hpp	212	warn	StyleParser: Unnecessary " ", use ' ' instead.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.hpp	40	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.hpp	87	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/CGridSceneNode.hpp	117	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	515	none	StyleParser: TODO: check for valid low surrogate?
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2039	none	StyleParser: TODO: Check for near overflow values.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	179	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	224	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	225	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	226	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	227	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	228	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	260	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	339	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	348	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	372	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	390	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	394	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	406	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	414	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	426	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	477	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	484	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	486	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	496	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	504	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	512	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	514	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	517	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	532	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	535	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	552	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	553	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	555	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	562	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	564	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	569	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	579	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	580	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	582	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	588	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	591	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	600	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	619	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	626	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	628	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	637	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	648	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	652	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	664	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	668	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	699	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	755	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	759	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	771	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	775	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	880	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1025	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1027	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1029	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1044	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1046	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1048	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1074	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1076	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1080	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1088	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1088	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1088	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1102	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1104	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1123	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1131	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1133	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1140	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1149	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1151	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1158	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1167	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1169	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1176	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1188	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1190	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1192	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1194	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1204	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1206	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1208	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1210	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1220	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1229	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1238	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1242	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1242	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1243	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1253	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1253	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1254	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1264	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1264	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1266	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1295	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1328	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1329	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1344	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1347	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1348	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1362	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1365	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1391	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1393	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1402	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1406	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1408	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1414	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1427	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1431	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1437	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1440	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1445	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1450	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1453	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1463	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1463	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1464	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1464	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1465	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1465	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1466	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1474	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1475	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1475	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1476	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1476	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1489	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1492	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1502	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1502	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1503	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1503	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1504	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1512	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1513	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1513	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1518	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1521	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1529	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1529	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1538	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1546	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1567	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1569	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1578	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1582	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1584	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1589	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1602	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1606	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1613	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1616	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1632	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1634	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1639	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1641	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1646	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1659	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1664	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1671	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1676	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1679	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1689	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1714	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1717	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1717	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1718	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1733	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1736	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1742	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1747	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1763	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1778	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1781	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1794	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1796	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1802	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1805	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1806	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1820	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1822	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1828	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1832	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1833	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1836	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1849	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1851	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1858	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1862	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1866	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1867	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1870	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1888	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1891	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1908	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1913	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1916	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1929	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1931	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1938	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1941	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1942	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1961	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1967	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1973	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1977	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1997	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2001	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2004	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2007	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2011	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2014	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2032	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2032	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2036	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2043	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2047	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2050	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2180	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2183	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2197	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2206	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2209	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2211	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2219	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2222	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2225	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2229	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2231	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2236	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2238	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2262	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2270	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2275	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2282	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2290	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2311	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2311	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2311	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2314	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2316	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2323	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2330	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2345	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2350	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2350	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2350	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2353	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2355	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2359	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2379	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2385	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2385	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2385	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2388	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2390	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2393	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2399	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2402	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2411	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2414	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2433	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2434	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2437	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2456	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2471	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2471	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2474	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2479	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2481	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2481	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2483	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2483	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2487	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2493	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2506	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2509	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2512	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2516	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2548	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2548	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2548	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2550	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2554	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2559	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2563	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2563	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2565	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2567	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2581	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2605	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2605	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2636	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2642	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2645	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2652	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2670	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2672	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2678	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2682	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2699	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2704	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2718	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2718	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2718	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2806	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2813	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2816	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2827	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2836	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2862	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2869	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2872	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2883	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2892	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2921	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2923	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2925	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2940	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2943	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2962	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2964	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2966	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2982	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2984	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3005	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3007	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3017	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3035	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3038	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3059	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3061	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3071	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3090	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3093	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3110	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3116	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3118	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3130	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3150	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3158	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3160	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3176	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3211	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3215	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3249	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3265	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3268	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3268	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3268	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3271	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3294	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3304	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3314	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3324	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3334	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3344	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3354	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3364	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3374	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3385	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3395	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3406	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3416	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3426	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3436	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3446	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3456	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3466	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3476	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3486	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3496	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3506	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3516	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3526	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3536	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3546	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3556	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3567	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3577	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3587	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3590	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3606	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3616	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3626	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3636	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3646	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3656	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3666	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3675	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3685	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3694	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3704	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3713	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3722	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3731	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3740	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3749	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3758	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3767	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3776	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3785	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3794	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3803	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3812	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3821	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3830	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3839	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3883	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	73	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	234	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	438	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	804	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	810	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	824	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	837	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	851	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	866	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	885	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	901	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	916	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	930	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	944	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	958	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	972	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	986	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1000	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1014	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1033	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1052	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1065	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1072	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1099	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1120	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1129	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1147	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1165	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1183	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1200	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1216	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1225	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1234	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1249	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1260	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1274	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1281	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1288	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1303	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1311	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1319	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1337	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1356	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1386	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1562	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1627	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1704	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1726	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1758	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1769	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1815	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1900	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1951	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	1989	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2022	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2060	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2070	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2080	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2090	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2100	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2111	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2122	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2132	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2142	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2152	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2162	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2172	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2190	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2302	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2338	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2373	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2422	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2442	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2465	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2501	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2528	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2586	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2611	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2619	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2627	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2662	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2692	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2712	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2727	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2738	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2747	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2756	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2765	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2775	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2785	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2795	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2852	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2909	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2950	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	2992	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3047	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3101	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3141	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3291	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3301	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3311	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3321	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3331	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3341	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3351	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3361	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3371	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3381	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3392	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3403	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3413	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3423	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3433	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3443	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3453	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3463	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3473	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3483	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3493	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3503	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3513	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3523	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3533	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3543	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3553	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3563	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3574	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3584	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3603	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3613	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3623	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3633	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3643	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3653	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3663	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3672	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3681	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3691	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3701	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3710	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3719	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3728	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3737	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3746	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3755	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3764	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3773	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3782	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3791	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3800	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3809	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3818	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3827	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3836	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3846	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/irrUString.hpp	3865	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	26	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	40	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	40	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	99	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	102	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	108	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	143	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	150	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	157	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	159	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	161	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	201	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	205	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	224	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	239	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	245	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	245	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	246	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	246	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	256	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	256	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	256	warn	StyleParser: Use white-space after comma.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	258	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	260	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	264	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	266	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	270	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	272	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	18	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	49	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	253	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/ext/3rdPersonCam.hpp	278	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	318	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	381	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	411	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	420	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	442	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	448	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	450	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	451	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	452	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	456	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	459	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	460	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	461	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	466	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	473	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	496	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	497	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	498	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	539	warn	StyleParser: Do not use extra white-space.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	635	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	651	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	663	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	736	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	741	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	778	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	783	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	798	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	803	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	851	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	856	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	861	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	866	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	913	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	918	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	923	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	928	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	974	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	979	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	984	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	989	warn	StyleParser: Use white-spaces before and after math operators.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	70	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	85	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	86	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	112	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	120	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	134	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	152	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	155	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	156	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	163	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	181	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	198	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	211	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	212	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	225	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	226	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	239	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	242	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	246	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	255	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	263	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	278	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	293	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	296	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	321	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	353	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	354	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	361	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	478	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	607	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	677	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	707	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	714	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	746	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	808	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	809	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	871	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	994	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	1002	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/optional.hpp	1015	warn	StyleParser: Too many consecutive empty lines.
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/ext/make_unique.hpp	9	none	StyleParser: TODO: remove
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/app/TEST_FILE.hpp	7	none	StyleParser: TODO: TEMP FILE!!! REMOVE
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/physics/Ragdoll.hpp	19	none	StyleParser: TODO: in order to make it more flexible, there should be a wrapper for different types of Bullet's constraints
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/physics/Ragdoll.hpp	22	none	StyleParser: TODO: this class is probably wrong, it should probably use bones instead of rigid bodies for each joint
+C:/Users/ison/Documents/IsonData/C++/projects/Sandbox2/Client/Project/engine/app3D/physics/Ragdoll.hpp	27	none	StyleParser: TODO: in order to make it more flexible, we should be getting already constructed RigidBodies here rather then creating them by ourselves using CollisionShapes
