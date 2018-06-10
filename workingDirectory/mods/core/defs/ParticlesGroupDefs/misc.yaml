@@ -1,0 +1,57 @@
+ParticlesGroupDefs:
+    list:
+        - defName: ParticlesGroup_Poof
+          label: poof particles group
+          description: Poof particles group.
+          particlesGroupModelDef: ParticlesGroupModel_Poof
+          particleSpriteDef: ParticleSprite_Smoke
+          maxParticlesCount: 300
+          gravity:
+            x: 0.0
+            y: -1.0
+            z: 0.0
+          emitters:
+            - type:
+                enum: Random
+              zoneSphere:
+                position:
+                  x: 0.0
+                  y: 0.0
+                  z: 0.0
+                radius: 0.01
+              flow: -1
+              tank: 300
+              force:
+                from: 0.1
+                to: 0.5
+                
+        - defName: ParticlesGroup_Smoke
+          label: smoke particles group
+          description: Smoke particles group.
+          particlesGroupModelDef: ParticlesGroupModel_Smoke
+          particleSpriteDef: ParticleSprite_Smoke
+          maxParticlesCount: 135
+          gravity:
+            x: 0.0
+            y: 0.4
+            z: 0.0
+          emitters:
+            - type:
+                enum: Spheric
+              direction:
+                x: 0.0
+                y: 1.0
+                z: 0.0
+              angle:
+                from: 0.0
+                to: 1.57079
+              zoneSphere:
+                position:
+                  x: 0.0
+                  y: 0.0
+                  z: 0.0
+                radius: 1.2
+              flow: 25
+              force:
+                from: 0.5
+                to: 1.0

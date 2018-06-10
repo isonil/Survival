@@ -1,0 +1,8 @@
+CachedCollisionShapeDefs:
+    list:
+        - defName: CachedCollisionShape_ItemPickUpZone
+          label: item pick up zone shape
+          description: Item pick up zone shape.
+          type:
+              enum: Sphere
+          radius: 0.5

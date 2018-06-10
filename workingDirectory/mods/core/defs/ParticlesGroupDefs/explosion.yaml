@@ -1,0 +1,61 @@
+ParticlesGroupDefs:
+    list:
+        - defName: ParticlesGroup_Explosion_Smoke
+          label: explosion smoke particles group
+          description: Explosion smoke particles group.
+          particlesGroupModelDef: ParticlesGroupModel_Explosion_Smoke
+          particleSpriteDef: ParticleSprite_Explosion_Smoke
+          inheritScaled:
+            def: ParticlesGroup_SmallExplosion_Smoke
+            scale: 3.0
+          emitters:
+          
+        - defName: ParticlesGroup_Explosion_Flame
+          label: explosion flame particles group
+          description: Explosion flame particles group.
+          particlesGroupModelDef: ParticlesGroupModel_Explosion_Flame
+          particleSpriteDef: ParticleSprite_Explosion_Flame
+          inheritScaled:
+            def: ParticlesGroup_SmallExplosion_Flame
+            scale: 3.0
+          emitters:
+          
+        - defName: ParticlesGroup_Explosion_Flash
+          label: explosion flash particles group
+          description: Explosion flash particles group.
+          particlesGroupModelDef: ParticlesGroupModel_Explosion_Flash
+          particleSpriteDef: ParticleSprite_Explosion_Flash
+          inheritScaled:
+            def: ParticlesGroup_SmallExplosion_Flash
+            scale: 3.0
+          emitters:
+          
+        - defName: ParticlesGroup_Explosion_Spark1
+          label: explosion spark 1 particles group
+          description: Explosion spark 1 particles group.
+          particlesGroupModelDef: ParticlesGroupModel_Explosion_Spark1
+          particleSpriteDef: ParticleSprite_Explosion_Spark1
+          inheritScaled:
+            def: ParticlesGroup_SmallExplosion_Spark1
+            scale: 3.0
+          emitters:
+          
+        - defName: ParticlesGroup_Explosion_Spark2
+          label: explosion spark 2 particles group
+          description: Explosion spark 2 particles group.
+          particlesGroupModelDef: ParticlesGroupModel_Explosion_Spark2
+          particleSpriteDef: ParticleSprite_Explosion_Spark2
+          inheritScaled:
+            def: ParticlesGroup_SmallExplosion_Spark2
+            scale: 3.0
+          emitters:
+          
+        - defName: ParticlesGroup_Explosion_Wave
+          label: explosion wave particles group
+          description: Explosion wave particles group.
+          particlesGroupModelDef: ParticlesGroupModel_Explosion_Wave
+          particleSpriteDef: ParticleSprite_Explosion_Wave
+          inheritScaled:
+            def: ParticlesGroup_SmallExplosion_Wave
+            scale: 3.0
+          emitters:

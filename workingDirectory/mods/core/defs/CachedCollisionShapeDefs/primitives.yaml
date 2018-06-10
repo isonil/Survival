@@ -1,0 +1,13 @@
+CachedCollisionShapeDefs:
+    list:
+        - defName: CachedCollisionShape_Plane_0
+          label: plane shape (zero)
+          description: A plane shape (zero).
+          type:
+              enum: Plane
+          planeNormal:
+            x: 0.0
+            y: 1.0
+            z: 0.0
+          planeConstant: 0.0
+          

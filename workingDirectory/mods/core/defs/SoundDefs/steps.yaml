@@ -1,0 +1,49 @@
+SoundDefs:
+    list:
+        - defName: Sound_WaterStep
+          label: water step sound
+          description: Water step sound.
+          path: steps/water.ogg
+          volumeRandomRange:
+            from: 0.9
+            to: 1.0
+          pitchRandomRange:
+            from: 0.95
+            to: 1.0
+          isGUISound: false
+          
+        - defName: Sound_GrassStep
+          label: grass step sound
+          description: Grass step sound.
+          path: steps/grass.ogg
+          volumeRandomRange:
+            from: 0.9
+            to: 1.0
+          pitchRandomRange:
+            from: 0.95
+            to: 1.0
+          isGUISound: false
+          
+        - defName: Sound_RocksStep
+          label: rocks step sound
+          description: Rocks step sound.
+          path: steps/rocks.ogg
+          volumeRandomRange:
+            from: 0.9
+            to: 1.0
+          pitchRandomRange:
+            from: 0.95
+            to: 1.0
+          isGUISound: false
+          
+        - defName: Sound_SandStep
+          label: sand step sound
+          description: Sand step sound.
+          path: steps/sand.ogg
+          volumeRandomRange:
+            from: 0.9
+            to: 1.0
+          pitchRandomRange:
+            from: 0.95
+            to: 1.0
+          isGUISound: false

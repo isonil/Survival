@@ -1,0 +1,16 @@
+CharacterDefs:
+    list:
+        - defName: Character_Human
+          label: human
+          description: A human.
+          modelDef: Model_Humanoid
+          cachedCollisionShapeDef: CachedCollisionShape_Capsule_Humanoid
+          animationFramesSetDef: AnimationFramesSet_Humanoid
+          itemUseSourcePosOffsets:
+          onHitEffectDef: Effect_OnHitFlesh
+          mass: 85.0
+          maxHP: 1000000
+          expPerKill: 30
+          onKilledAction:
+            enum: None
+          onKilledEffects:

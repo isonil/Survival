@@ -1,0 +1,9 @@
+EffectDefs:
+    list:
+        - defName: Effect_Poof
+          label: poof effect
+          description: Poof effect.
+          particleEffects:
+            - particlesGroupDef: ParticlesGroup_Poof
+              duration: 100.0
+              

@@ -1,0 +1,208 @@
+ParticlesGroupModelDefs:
+    list:
+        - defName: ParticlesGroupModel_SmallExplosion_Smoke
+          label: small explosion smoke particles group model
+          description: Small explosion smoke particles group model.
+          redParam:
+            type:
+              enum: Constant
+            constant: 0.2
+          greenParam:
+            type:
+              enum: Constant
+            constant: 0.2
+          blueParam:
+            type:
+              enum: Constant
+            constant: 0.2
+          sizeParam:
+            type:
+              enum: RandomStartRandomEnd
+            randomStart:
+              from: 0.6
+              to: 0.8
+            randomEnd:
+              from: 1.0
+              to: 1.4
+          angleParam:
+            type:
+              enum: RandomStartRandomEnd
+            randomStart:
+              from: 0.0
+              to: 1.57079
+            randomEnd:
+              from: 0.0
+              to: 1.57079
+          randomTextureIndex:
+            from: 0
+            to: 4
+          lifeTime:
+            from: 2.5
+            to: 3.0
+          alphaInterpolator:
+            entries:
+              - timePercentage: 0.0
+                multiplier: 0.0
+              
+              - timePercentage: 0.4
+                multiplier: 0.4
+                multiplierB: 0.6
+              
+              - timePercentage: 0.6
+                multiplier: 0.4
+                multiplierB: 0.6
+              
+              - timePercentage: 1.0
+                multiplier: 0.0
+                
+        - defName: ParticlesGroupModel_SmallExplosion_Flame
+          label: small explosion flame particles group model
+          description: Small explosion flame particles group model.
+          redParam:
+            type:
+              enum: StartEnd
+            startEnd:
+              from: 1.0
+              to: 0.2
+          greenParam:
+            type:
+              enum: StartEnd
+            startEnd:
+              from: 0.5
+              to: 0.2
+          blueParam:
+            type:
+              enum: Constant
+            constant: 0.2
+          angleParam:
+            type:
+              enum: RandomStartRandomEnd
+            randomStart:
+              from: 0.0
+              to: 1.57079
+            randomEnd:
+              from: 0.0
+              to: 1.57079
+          randomTextureIndex:
+            from: 0
+            to: 4
+          lifeTime:
+            from: 1.5
+            to: 2.0
+          sizeInterpolator:
+            entries:
+              - timePercentage: 0.0
+                multiplier: 0.25
+              
+              - timePercentage: 0.02
+                multiplier: 0.6
+                multiplierB: 0.8
+                
+              - timePercentage: 1.0
+                multiplier: 1.0
+                multiplierB: 1.4
+          alphaInterpolator:
+            entries:
+              - timePercentage: 0.5
+                multiplier: 1.0
+              
+              - timePercentage: 1.0
+                multiplier: 0.0
+                
+        - defName: ParticlesGroupModel_SmallExplosion_Flash
+          label: small explosion flash particles group model
+          description: Small explosion flash particles group model.
+          angleParam:
+            type:
+              enum: StartEnd
+            startEnd:
+              from: 0.0
+              to: 6.28318
+          lifeTime:
+            from: 0.5
+            to: 0.5
+          sizeInterpolator:
+            entries:
+              - timePercentage: 0.0
+                multiplier: 0.25
+              
+              - timePercentage: 0.1
+                multiplier: 1.0
+                multiplierB: 2.0
+          alphaInterpolator:
+            entries:
+              - timePercentage: 0.0
+                multiplier: 1.0
+              
+              - timePercentage: 0.4
+                multiplier: 0.0
+                
+        - defName: ParticlesGroupModel_SmallExplosion_Spark1
+          label: small explosion spark 1 particles group model
+          description: Small explosion spark 1 particles group model.
+          alphaParam:
+            type:
+              enum: StartEnd
+            startEnd:
+              from: 1.0
+              to: 0.0
+          sizeParam:
+            type:
+              enum: StartEnd
+            startEnd:
+              from: 0.2
+              to: 0.4
+          lifeTime:
+            from: 0.2
+            to: 1.0
+            
+        - defName: ParticlesGroupModel_SmallExplosion_Spark2
+          label: small explosion spark 2 particles group model
+          description: Small explosion spark 2 particles group model.
+          redParam:
+            type:
+              enum: Constant
+            constant: 1.0
+          greenParam:
+            type:
+              enum: RandomStartRandomEnd
+            randomStart:
+              from: 1.0
+              to: 1.0
+            randomEnd:
+              from: 0.3
+              to: 1.0
+          blueParam:
+            type:
+              enum: StartEnd
+            startEnd:
+              from: 0.7
+              to: 0.3
+          alphaParam:
+            type:
+              enum: StartEnd
+            startEnd:
+              from: 1.0
+              to: 0.0
+          lifeTime:
+            from: 1.0
+            to: 3.0
+            
+        - defName: ParticlesGroupModel_SmallExplosion_Wave
+          label: small explosion wave particles group model
+          description: Small explosion wave particles group model.
+          sizeParam:
+            type:
+              enum: StartEnd
+            startEnd:
+              from: 0.0
+              to: 4.0
+          alphaParam:
+            type:
+              enum: StartEnd
+            startEnd:
+              from: 0.2
+              to: 0.0
+          lifeTime:
+            from: 0.8
+            to: 0.8

@@ -1,0 +1,135 @@
+ParticlesGroupDefs:
+    list:
+        - defName: ParticlesGroup_SmallExplosion_Smoke
+          label: small explosion smoke particles group
+          description: Small explosion smoke particles group.
+          particlesGroupModelDef: ParticlesGroupModel_SmallExplosion_Smoke
+          particleSpriteDef: ParticleSprite_SmallExplosion_Smoke
+          maxParticlesCount: 15
+          gravity:
+            x: 0.0
+            y: 0.05
+            z: 0.0
+          emitters:
+            - type:
+                enum: Random
+              zoneSphere:
+                position:
+                  x: 0.0
+                  y: 0.0
+                  z: 0.0
+                radius: 0.6
+              fullZone: false
+              flow: -1
+              tank: 15
+              force:
+                from: 0.02
+                to: 0.04
+          
+        - defName: ParticlesGroup_SmallExplosion_Flame
+          label: small explosion flame particles group
+          description: Small explosion flame particles group.
+          particlesGroupModelDef: ParticlesGroupModel_SmallExplosion_Flame
+          particleSpriteDef: ParticleSprite_SmallExplosion_Flame
+          maxParticlesCount: 15
+          emitters:
+            - type:
+                enum: Normal
+              zoneSphere:
+                position:
+                  x: 0.0
+                  y: 0.0
+                  z: 0.0
+                radius: 0.4
+              flow: -1
+              tank: 15
+              force:
+                from: 0.06
+                to: 0.1
+          
+        - defName: ParticlesGroup_SmallExplosion_Flash
+          label: small explosion flash particles group
+          description: Small explosion flash particles group.
+          particlesGroupModelDef: ParticlesGroupModel_SmallExplosion_Flash
+          particleSpriteDef: ParticleSprite_SmallExplosion_Flash
+          maxParticlesCount: 3
+          emitters:
+            - type:
+                enum: Static
+              zoneSphere:
+                position:
+                  x: 0.0
+                  y: 0.0
+                  z: 0.0
+                radius: 0.1
+              flow: -1
+              tank: 3
+          
+        - defName: ParticlesGroup_SmallExplosion_Spark1
+          label: small explosion spark 1 particles group
+          description: Small explosion spark 1 particles group.
+          particlesGroupModelDef: ParticlesGroupModel_SmallExplosion_Spark1
+          particleSpriteDef: ParticleSprite_SmallExplosion_Spark1
+          maxParticlesCount: 20
+          gravity:
+            x: 0.0
+            y: -1.5
+            z: 0.0
+          emitters:
+            - type:
+                enum: Normal
+              zoneSphere:
+                position:
+                  x: 0.0
+                  y: 0.0
+                  z: 0.0
+                radius: 0.4
+              flow: -1
+              tank: 20
+              force:
+                from: 2.0
+                to: 3.0
+          
+        - defName: ParticlesGroup_SmallExplosion_Spark2
+          label: small explosion spark 2 particles group
+          description: Small explosion spark 2 particles group.
+          particlesGroupModelDef: ParticlesGroupModel_SmallExplosion_Spark2
+          particleSpriteDef: ParticleSprite_SmallExplosion_Spark2
+          maxParticlesCount: 400
+          gravity:
+            x: 0.0
+            y: -0.3
+            z: 0.0
+          friction: 0.4
+          emitters:
+            - type:
+                enum: Normal
+              zoneSphere:
+                position:
+                  x: 0.0
+                  y: 0.0
+                  z: 0.0
+                radius: 0.4
+              flow: -1
+              tank: 400
+              force:
+                from: 0.4
+                to: 0.8
+          
+        - defName: ParticlesGroup_SmallExplosion_Wave
+          label: small explosion wave particles group
+          description: Small explosion wave particles group.
+          particlesGroupModelDef: ParticlesGroupModel_SmallExplosion_Wave
+          particleSpriteDef: ParticleSprite_SmallExplosion_Wave
+          maxParticlesCount: 1
+          emitters:
+            - type:
+                enum: Static
+              zoneSphere:
+                position:
+                  x: 0.0
+                  y: 0.0
+                  z: 0.0
+                radius: 0.01
+              flow: -1
+              tank: 1

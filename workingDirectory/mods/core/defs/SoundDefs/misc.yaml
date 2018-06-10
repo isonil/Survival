@@ -1,0 +1,55 @@
+SoundDefs:
+    list:
+        - defName: Sound_Poof
+          label: poof sound
+          description: Poof sound.
+          path: misc/poof.ogg
+          isGUISound: false
+          
+        - defName: Sound_Constructed
+          label: constructed sound
+          description: Constructed sound.
+          path: misc/constructed.ogg
+          isGUISound: false
+          
+        - defName: Sound_StartSwimming
+          label: start swimming sound
+          description: Start swimming sound.
+          path: misc/startSwimming.ogg
+          isGUISound: false
+          
+        - defName: Sound_LeaveWater
+          label: leave water sound
+          description: Leave water sound.
+          path: misc/leaveWater.ogg
+          isGUISound: false
+          
+        - defName: Sound_FallIntoWater
+          label: fall into water sound
+          description: Fall into water sound.
+          path: misc/fallIntoWater.ogg
+          isGUISound: false
+          
+        - defName: Sound_Swim1
+          label: swim 1 sound
+          description: Swim 1 sound.
+          path: misc/swim1.ogg
+          isGUISound: false
+          
+        - defName: Sound_Swim2
+          label: swim 2 sound
+          description: Swim 2 sound.
+          path: misc/swim2.ogg
+          isGUISound: false
+          
+        - defName: Sound_TargetAcquired
+          label: target acquired sound
+          description: Target acquired sound.
+          path: misc/targetAcquired.ogg
+          isGUISound: false
+          
+        - defName: Sound_TurretHeadMove
+          label: turret head move sound
+          description: Turret head move sound.
+          path: misc/turretHeadMove.ogg
+          isGUISound: false

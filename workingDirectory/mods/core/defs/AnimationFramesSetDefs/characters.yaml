@@ -1,0 +1,6 @@
+AnimationFramesSetDefs:
+    list:
+        - defName: AnimationFramesSet_Humanoid
+          label: humanoid animation frames set
+          description: Humanoid animation frames set.
+          

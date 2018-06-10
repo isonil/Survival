@@ -1,0 +1,68 @@
+ModelDefs:
+    list:
+        - defName: Model_ElectricitySymbol_Normal_Normal
+          label: normal-normal electricity symbol
+          description: Normal-normal electricity symbol.
+          LODs:
+            - resourcePath: billboards/electricity/electricitySymbol_normal_normal.png
+              renderTechnique:
+                enum: Billboard
+              scale: 3.0
+              isBillboardOverlay: true
+              useCenterAsOriginForBillboard: true
+              
+        - defName: Model_ElectricitySymbol_Generator_Normal
+          label: generator-normal electricity symbol
+          description: Generator-normal electricity symbol.
+          LODs:
+            - resourcePath: billboards/electricity/electricitySymbol_generator_normal.png
+              renderTechnique:
+                enum: Billboard
+              scale: 3.0
+              isBillboardOverlay: true
+              useCenterAsOriginForBillboard: true
+              
+        - defName: Model_ElectricitySymbol_Normal_Gray
+          label: normal-gray electricity symbol
+          description: Normal-gray electricity symbol.
+          LODs:
+            - resourcePath: billboards/electricity/electricitySymbol_normal_gray.png
+              renderTechnique:
+                enum: Billboard
+              scale: 3.0
+              isBillboardOverlay: true
+              useCenterAsOriginForBillboard: true
+              
+        - defName: Model_ElectricitySymbol_Generator_Gray
+          label: generator-gray electricity symbol
+          description: Generator-gray electricity symbol.
+          LODs:
+            - resourcePath: billboards/electricity/electricitySymbol_generator_gray.png
+              renderTechnique:
+                enum: Billboard
+              scale: 3.0
+              isBillboardOverlay: true
+              useCenterAsOriginForBillboard: true
+              
+        - defName: Model_ElectricitySymbol_Normal_Red
+          label: normal-red electricity symbol
+          description: Normal-red electricity symbol.
+          LODs:
+            - resourcePath: billboards/electricity/electricitySymbol_normal_red.png
+              renderTechnique:
+                enum: Billboard
+              scale: 3.0
+              isBillboardOverlay: true
+              useCenterAsOriginForBillboard: true
+              
+        - defName: Model_ElectricitySymbol_Generator_Red
+          label: generator-red electricity symbol
+          description: Generator-red electricity symbol.
+          LODs:
+            - resourcePath: billboards/electricity/electricitySymbol_generator_red.png
+              renderTechnique:
+                enum: Billboard
+              scale: 3.0
+              isBillboardOverlay: true
+              useCenterAsOriginForBillboard: true
+              

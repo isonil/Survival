@@ -1,0 +1,12 @@
+TerrainDefs:
+    list:
+        - defName: Terrain_Flat
+          label: flat terrain
+          description: Flat terrain.
+          texture1Path: terrain/sand.png
+          texture2Path: terrain/grass.png
+          texture3Path: terrain/mud.png
+          slopeTexturePath: terrain/rocks.png
+          isFlat: true
+          scale: 500.0
+          useGrass: false

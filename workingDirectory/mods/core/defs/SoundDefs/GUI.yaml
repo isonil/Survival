@@ -1,0 +1,127 @@
+SoundDefs:
+    list:
+        - defName: Sound_StartAiming
+          label: start aiming sound
+          description: Start aiming sound.
+          path: GUI/startAiming.ogg
+          volumeRandomRange:
+            from: 0.95
+            to: 1.0
+          pitchRandomRange:
+            from: 0.95
+            to: 1.0
+          isGUISound: true
+          
+        - defName: Sound_StopAiming
+          label: stop aiming sound
+          description: Stop aiming sound.
+          path: GUI/stopAiming.ogg
+          volumeRandomRange:
+            from: 0.95
+            to: 1.0
+          pitchRandomRange:
+            from: 0.95
+            to: 1.0
+          isGUISound: true
+          
+        - defName: Sound_Inventory1
+          label: inventory 1 sound
+          description: Inventory 1 sound.
+          path: GUI/inventory1.ogg
+          isGUISound: true
+          
+        - defName: Sound_Inventory2
+          label: inventory 2 sound
+          description: Inventory 2 sound.
+          path: GUI/inventory2.ogg
+          isGUISound: true
+          
+        - defName: Sound_EquipWeapon
+          label: equip weapon sound
+          description: Equip weapon sound.
+          path: GUI/equipWeapon.ogg
+          isGUISound: true
+          
+        - defName: Sound_Select1
+          label: select 1 sound
+          description: Select 1 sound.
+          path: GUI/select1.ogg
+          isGUISound: true
+          
+        - defName: Sound_Select2
+          label: select 2 sound
+          description: Select 2 sound.
+          path: GUI/select2.ogg
+          isGUISound: true
+          
+        - defName: Sound_Select3
+          label: select 3 sound
+          description: Select 3 sound.
+          path: GUI/select3.ogg
+          isGUISound: true
+          
+        - defName: Sound_Switch1
+          label: switch 1 sound
+          description: Switch 1 sound.
+          path: GUI/switch1.ogg
+          isGUISound: true
+          
+        - defName: Sound_Negative1
+          label: negative 1 sound
+          description: Negative 1 sound.
+          path: GUI/negative1.ogg
+          isGUISound: true
+          
+        - defName: Sound_GoUnderWater
+          label: go under water sound
+          description: Go under water sound.
+          path: GUI/goUnderWater.ogg
+          isGUISound: true
+          
+        - defName: Sound_LeaveFromUnderWater
+          label: leave from under water sound
+          description: Leave from under water sound.
+          path: GUI/leaveFromUnderWater.ogg
+          isGUISound: true
+          
+        - defName: Sound_HitTarget
+          label: hit target sound
+          description: Hit target sound.
+          path: GUI/hitTarget.ogg
+          isGUISound: true
+          
+        - defName: Sound_ITakeDamage
+          label: I take damage sound
+          description: I take damage sound.
+          path: GUI/iTakeDamage.ogg
+          isGUISound: true
+          
+        - defName: Sound_MyDeath
+          label: my death sound
+          description: My death sound.
+          path: GUI/myDeath.ogg
+          isGUISound: true
+          
+        - defName: Sound_UnlockUpgrade
+          label: unlock upgrade sound
+          description: Unlock upgrade sound.
+          path: GUI/unlockUpgrade.wav
+          isGUISound: true
+          
+        - defName: Sound_LevelUp
+          label: level up sound
+          description: Level up sound.
+          path: GUI/levelUp.ogg
+          isGUISound: true
+          
+        - defName: Sound_ButtonClick
+          label: button click sound
+          description: Button click sound.
+          path: GUI/buttonClick.wav
+          isGUISound: true
+          
+        - defName: Sound_SearchItemContainer
+          label: search item container sound
+          description: Search item container sound.
+          path: GUI/searchItemContainer.ogg
+          isGUISound: true

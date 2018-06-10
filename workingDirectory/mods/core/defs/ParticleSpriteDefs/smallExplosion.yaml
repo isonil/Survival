@@ -1,0 +1,68 @@
+ParticleSpriteDefs:
+    list:
+        - defName: ParticleSprite_SmallExplosion_Smoke
+          label: small explosion smoke particle sprite
+          description: Small explosion smoke particle sprite.
+          texturePath: particles/smoke.png
+          blending:
+            enum: Alpha
+          texturesCountInAtlas:
+            x: 2
+            y: 2
+            
+        - defName: ParticleSprite_SmallExplosion_Flame
+          label: small explosion flame particle sprite
+          description: Small explosion flame particle sprite.
+          texturePath: particles/explosion.bmp
+          blending:
+            enum: Add
+          texturesCountInAtlas:
+            x: 2
+            y: 2
+            
+        - defName: ParticleSprite_SmallExplosion_Flash
+          label: small explosion flash particle sprite
+          description: Small explosion flash particle sprite.
+          texturePath: particles/flash.bmp
+          blending:
+            enum: Add
+            
+        - defName: ParticleSprite_SmallExplosion_Spark1
+          label: small explosion spark 1 particle sprite
+          description: Small explosion spark 1 particle sprite.
+          texturePath: particles/spark1.bmp
+          scale:
+            x: 0.05
+            y: 1.0
+          blending:
+            enum: Add
+          orientation:
+            enum: DirectionAligned
+          
+        - defName: ParticleSprite_SmallExplosion_Spark2
+          label: small explosion spark 2 particle sprite
+          description: Small explosion spark 2 particle sprite.
+          texturePath: particles/spark2.bmp
+          scale:
+            x: 0.02
+            y: 0.02
+          blending:
+            enum: Add
+            
+        - defName: ParticleSprite_SmallExplosion_Wave
+          label: small explosion wave particle sprite
+          description: Small explosion wave particle sprite.
+          texturePath: particles/wave.bmp
+          blending:
+            enum: Alpha
+          orientation:
+            enum: Fixed
+          useAlphaTest: true
+          lookVector:
+            x: 0.0
+            y: 1.0
+            z: 0.0
+          upVector:
+            x: 1.0
+            y: 0.0
+            z: 0.0

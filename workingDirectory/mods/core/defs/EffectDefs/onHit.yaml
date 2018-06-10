@@ -1,0 +1,26 @@
+EffectDefs:
+    list:
+        - defName: Effect_OnHitGeneric
+          label: on hit generic effect
+          description: On hit generic effect.
+          particleEffects:
+            - particlesGroupDef: ParticlesGroup_Smoke
+              duration: 100.0
+          soundDef: Sound_OnHitGeneric
+          
+        - defName: Effect_OnHitWater
+          label: on hit water effect
+          description: On hit water effect.
+          particleEffects:
+            - particlesGroupDef: ParticlesGroup_Smoke
+              duration: 100.0
+          soundDef: Sound_OnHitWater
+          
+        - defName: Effect_OnHitFlesh
+          label: on hit flesh effect
+          description: On hit flesh effect.
+          particleEffects:
+            - particlesGroupDef: ParticlesGroup_Smoke
+              duration: 100.0
+          soundDef: Sound_OnHitFlesh
+          

@@ -1,0 +1,9 @@
+ModelDefs:
+    list:
+        - defName: Model_Humanoid
+          label: humanoid model
+          description: A humanoid model.
+          LODs:
+            - resourcePath: characters/humanoid/humanoid.obj
+              renderTechnique:
+                enum: Mesh

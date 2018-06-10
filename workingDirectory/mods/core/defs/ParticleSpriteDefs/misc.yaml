@@ -1,0 +1,14 @@
+ParticleSpriteDefs:
+    list:
+        - defName: ParticleSprite_Smoke
+          label: smoke particle sprite
+          description: Smoke particle sprite.
+          texturePath: particles/smoke.png
+          scale:
+            x: 0.3
+            y: 0.3
+          blending:
+            enum: Alpha
+          texturesCountInAtlas:
+            x: 2
+            y: 2

@@ -1,0 +1,20 @@
+SoundDefs:
+    list:
+        - defName: Sound_OnHitGeneric
+          label: on hit generic sound
+          description: On hit generic sound.
+          path: onHit/onHitGeneric.ogg
+          isGUISound: false
+          
+        - defName: Sound_OnHitWater
+          label: on hit water sound
+          description: On hit water sound.
+          path: onHit/onHitWater.ogg
+          isGUISound: false
+          
+        - defName: Sound_OnHitFlesh
+          label: on hit flesh sound
+          description: On hit flesh sound.
+          path: onHit/onHitFlesh.ogg
+          isGUISound: false
+          

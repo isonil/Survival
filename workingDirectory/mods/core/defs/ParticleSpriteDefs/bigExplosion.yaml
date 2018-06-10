@@ -1,0 +1,43 @@
+ParticleSpriteDefs:
+    list:
+        - defName: ParticleSprite_BigExplosion_Smoke
+          label: big explosion smoke particle sprite
+          description: Big explosion smoke particle sprite.
+          inheritScaled:
+            def: ParticleSprite_SmallExplosion_Smoke
+            scale: 5.0
+            
+        - defName: ParticleSprite_BigExplosion_Flame
+          label: big explosion flame particle sprite
+          description: Big explosion flame particle sprite.
+          inheritScaled:
+            def: ParticleSprite_SmallExplosion_Flame
+            scale: 5.0
+            
+        - defName: ParticleSprite_BigExplosion_Flash
+          label: big explosion flash particle sprite
+          description: Big explosion flash particle sprite.
+          inheritScaled:
+            def: ParticleSprite_SmallExplosion_Flash
+            scale: 5.0
+            
+        - defName: ParticleSprite_BigExplosion_Spark1
+          label: big explosion spark 1 particle sprite
+          description: Big explosion spark 1 particle sprite.
+          inheritScaled:
+            def: ParticleSprite_SmallExplosion_Spark1
+            scale: 5.0
+          
+        - defName: ParticleSprite_BigExplosion_Spark2
+          label: big explosion spark 2 particle sprite
+          description: Big explosion spark 2 particle sprite.
+          inheritScaled:
+            def: ParticleSprite_SmallExplosion_Spark2
+            scale: 5.0
+            
+        - defName: ParticleSprite_BigExplosion_Wave
+          label: big explosion wave particle sprite
+          description: Big explosion wave particle sprite.
+          inheritScaled:
+            def: ParticleSprite_SmallExplosion_Wave
+            scale: 5.0

@@ -1,0 +1,10 @@
+FactionDefs:
+    list:
+        - defName: Faction_Neutral
+          label: neutral faction
+          description: Neutral faction.
+        
+        - defName: Faction_Players
+          label: players faction
+          description: Players faction.
+          

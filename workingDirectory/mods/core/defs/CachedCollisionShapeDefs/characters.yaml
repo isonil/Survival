@@ -1,0 +1,13 @@
+CachedCollisionShapeDefs:
+    list:
+        - defName: CachedCollisionShape_Capsule_Humanoid
+          label: capsule shape (humanoid)
+          description: A capsule shape (humanoid).
+          type:
+              enum: Capsule
+          radius: 0.6
+          height: 1.8
+          posOffset:
+            x: 0.0
+            y: 0.9
+            z: 0.0

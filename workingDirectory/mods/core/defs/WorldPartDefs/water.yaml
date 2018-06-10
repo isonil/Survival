@@ -1,0 +1,13 @@
+WorldPartDefs:
+    list:
+        - defName: WorldPart_Water
+          label: water
+          description: A water.
+          terrainDef: Terrain_Flat
+          ground1StepSoundDef: Sound_SandStep
+          ground2StepSoundDef: Sound_GrassStep
+          ground3StepSoundDef: Sound_GrassStep
+          slopeStepSoundDef: Sound_RocksStep
+          randomMineablesCount: 0
+          randomMineables:
+          

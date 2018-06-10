@@ -1,0 +1,68 @@
+EffectDefs:
+    list:
+        - defName: Effect_SmallExplosion
+          label: small explosion effect
+          description: Small explosion effect.
+          particleEffects:
+            - particlesGroupDef: ParticlesGroup_SmallExplosion_Smoke
+              duration: 100.0
+            
+            - particlesGroupDef: ParticlesGroup_SmallExplosion_Flame
+              duration: 100.0
+              
+            - particlesGroupDef: ParticlesGroup_SmallExplosion_Flash
+              duration: 100.0
+              
+            - particlesGroupDef: ParticlesGroup_SmallExplosion_Spark1
+              duration: 100.0
+              
+            - particlesGroupDef: ParticlesGroup_SmallExplosion_Spark2
+              duration: 100.0
+              
+            - particlesGroupDef: ParticlesGroup_SmallExplosion_Wave
+              duration: 100.0
+              
+        - defName: Effect_Explosion
+          label: explosion effect
+          description: Explosion effect.
+          particleEffects:
+            - particlesGroupDef: ParticlesGroup_Explosion_Smoke
+              duration: 100.0
+            
+            - particlesGroupDef: ParticlesGroup_Explosion_Flame
+              duration: 100.0
+              
+            - particlesGroupDef: ParticlesGroup_Explosion_Flash
+              duration: 100.0
+              
+            - particlesGroupDef: ParticlesGroup_Explosion_Spark1
+              duration: 100.0
+              
+            - particlesGroupDef: ParticlesGroup_Explosion_Spark2
+              duration: 100.0
+              
+            - particlesGroupDef: ParticlesGroup_Explosion_Wave
+              duration: 100.0
+              
+        - defName: Effect_BigExplosion
+          label: big explosion effect
+          description: Big explosion effect.
+          particleEffects:
+            - particlesGroupDef: ParticlesGroup_BigExplosion_Smoke
+              duration: 100.0
+            
+            - particlesGroupDef: ParticlesGroup_BigExplosion_Flame
+              duration: 100.0
+              
+            - particlesGroupDef: ParticlesGroup_BigExplosion_Flash
+              duration: 100.0
+              
+            - particlesGroupDef: ParticlesGroup_BigExplosion_Spark1
+              duration: 100.0
+              
+            - particlesGroupDef: ParticlesGroup_BigExplosion_Spark2
+              duration: 100.0
+              
+            - particlesGroupDef: ParticlesGroup_BigExplosion_Wave
+              duration: 100.0
+         

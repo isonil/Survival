@@ -1,0 +1,117 @@
+ParticlesGroupModelDefs:
+    list:
+        - defName: ParticlesGroupModel_Poof
+          label: poof particles group model
+          description: Poof particles group model.
+          redParam:
+            type:
+              enum: StartEnd
+            startEnd:
+              from: 0.7
+              to: 0.8
+          greenParam:
+            type:
+              enum: StartEnd
+            startEnd:
+              from: 0.7
+              to: 0.8
+          blueParam:
+            type:
+              enum: StartEnd
+            startEnd:
+              from: 0.7
+              to: 0.8
+          alphaParam:
+            type:
+              enum: StartEnd
+            startEnd:
+              from: 0.5
+              to: 0.0
+          sizeParam:
+            type:
+              enum: StartEnd
+            startEnd:
+              from: 1.5
+              to: 2.5
+          angleParam:
+            type:
+              enum: RandomStartRandomEnd
+            randomStart:
+              from: 0.0
+              to: 6.28318
+            randomEnd:
+              from: 0.0
+              to: 6.28318
+          randomTextureIndex:
+            from: 0
+            to: 4
+          lifeTime:
+            from: 1.5
+            to: 2.0
+          alphaInterpolator:
+            entries:
+              - timePercentage: 0.0
+                multiplier: 0.0
+              
+              - timePercentage: 0.05
+                multiplier: 0.4
+              
+              - timePercentage: 1.0
+                multiplier: 0.0
+                
+        - defName: ParticlesGroupModel_Smoke
+          label: smoke particles group model
+          description: Smoke particles group model.
+          redParam:
+            type:
+              enum: StartEnd
+            startEnd:
+              from: 0.3
+              to: 0.2
+          greenParam:
+            type:
+              enum: StartEnd
+            startEnd:
+              from: 0.25
+              to: 0.2
+          blueParam:
+            type:
+              enum: Constant
+            constant: 0.2
+          alphaParam:
+            type:
+              enum: StartEnd
+            startEnd:
+              from: 0.2
+              to: 0.0
+          sizeParam:
+            type:
+              enum: StartEnd
+            startEnd:
+              from: 5.0
+              to: 10.0
+          angleParam:
+            type:
+              enum: RandomStartRandomEnd
+            randomStart:
+              from: 0.0
+              to: 6.28318
+            randomEnd:
+              from: 0.0
+              to: 6.28318
+          randomTextureIndex:
+            from: 0
+            to: 4
+          lifeTime:
+            from: 5.0
+            to: 5.0
+          alphaInterpolator:
+            entries:
+              - timePercentage: 0.0
+                multiplier: 0.0
+              
+              - timePercentage: 0.2
+                multiplier: 0.2
+              
+              - timePercentage: 1.0
+                multiplier: 0.0

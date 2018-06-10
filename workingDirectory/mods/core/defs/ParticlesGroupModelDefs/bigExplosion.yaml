@@ -1,0 +1,43 @@
+ParticlesGroupModelDefs:
+    list:
+        - defName: ParticlesGroupModel_BigExplosion_Smoke
+          label: big explosion smoke particles group model
+          description: Big explosion smoke particles group model.
+          inheritScaled:
+            def: ParticlesGroupModel_SmallExplosion_Smoke
+            scale: 5.0
+                
+        - defName: ParticlesGroupModel_BigExplosion_Flame
+          label: big explosion flame particles group model
+          description: Big explosion flame particles group model.
+          inheritScaled:
+            def: ParticlesGroupModel_SmallExplosion_Flame
+            scale: 5.0
+                
+        - defName: ParticlesGroupModel_BigExplosion_Flash
+          label: big explosion flash particles group model
+          description: Big explosion flash particles group model.
+          inheritScaled:
+            def: ParticlesGroupModel_SmallExplosion_Flash
+            scale: 5.0
+                
+        - defName: ParticlesGroupModel_BigExplosion_Spark1
+          label: big explosion spark 1 particles group model
+          description: Big explosion spark 1 particles group model.
+          inheritScaled:
+            def: ParticlesGroupModel_SmallExplosion_Spark1
+            scale: 5.0
+            
+        - defName: ParticlesGroupModel_BigExplosion_Spark2
+          label: big explosion spark 2 particles group model
+          description: Big explosion spark 2 particles group model.
+          inheritScaled:
+            def: ParticlesGroupModel_SmallExplosion_Spark2
+            scale: 5.0
+            
+        - defName: ParticlesGroupModel_BigExplosion_Wave
+          label: big explosion wave particles group model
+          description: Big explosion wave particles group model.
+          inheritScaled:
+            def: ParticlesGroupModel_SmallExplosion_Wave
+            scale: 5.0
