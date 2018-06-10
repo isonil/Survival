@@ -1,0 +1,11 @@
+# Mod info file.
+# This is a core mod.
+
+ID: CORE_LAND
+name: Core Land
+version: 1.0
+modDependency: [CORE]
+author: Ison
+description:  >
+    This is a core mod.
+    Provides core land.

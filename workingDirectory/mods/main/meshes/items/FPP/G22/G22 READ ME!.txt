@@ -1,0 +1,44 @@
+1.IMPORTANT NOTICE ABOUT MULTIPLE TEXTURES!
+
+After building your game, you MUST manually copy the following textures to the
+
+files\gamecore\guns\model pack 9\g22 
+
+directory of your BUILT game or else the weapon will not display properly!
+
+g17vweap_D.dds
+ammo_D.dds
+Hand_D.jpg
+
+If you fail to do this, some parts of the weapon and the hands will not render. Also, enemy weapons will appear white.
+
+
+
+
+
+----------
+
+2.HAND TEXTURES
+
+
+
+To change HAND TEXTURE, simply replace the "Hand_D.jpg" with an alternate from 
+
+Bonus Material\Hand Maps
+
+Be sure to back up the original hand texture and rename the replacement texture to "Hand_D.jpg"
+
+
+If you create your own hand texture, you MUST save your "Hand_D" texture as JPEG format.  Other image formats WILL NOT be recognised by the HUD.X file.
+
+
+
+
+
+----------
+
+3.LOW-END COMPUTERS
+
+
+For a performance boost on low-end computers, reduce textures to 50%.   
+Be sure to backup original textures and save resized maps to the same format as the original (.DDS or .JPG).

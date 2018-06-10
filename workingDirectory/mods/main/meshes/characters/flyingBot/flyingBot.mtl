@@ -1,0 +1,12 @@
+# Blender MTL File: 'flyingBot.blend'
+# Material Count: 1
+
+newmtl Bot
+Ns 96.078431
+Ka 0.640000 0.640000 0.640000
+Kd 0.640000 0.640000 0.640000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Turret-Diffuse.jpg

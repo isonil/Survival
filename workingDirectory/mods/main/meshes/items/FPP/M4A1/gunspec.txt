@@ -1,0 +1,114 @@
+;M4A1 weapon spec 117
+;Requires FPSC v1.17
+
+;GUN Model File Requirements
+
+;GUN Settings
+
+MUZZLECOLORR = 252
+MUZZLECOLORG = 150
+MUZZLECOLORB = 54
+
+muzzleflash	= 94
+muzzlesize	= 62
+brass		= 4
+smokedecal	= gunsmoke
+damage		= 25
+damagetype	= 1
+scorchtype	= 1
+reloadqty		= 30
+accuracy		= 3
+range		= 10000
+firerate		= 5.5
+
+;GUN Visuals
+textured = 
+effect = effectbank\BumpCubeReflectAlpha\BumpCubeReflectAlpha.fx
+transparency = 1
+zoomscope =-1
+weapontype = 3
+
+;GUN Sounds
+sound1		= fire.wav
+sound2		= reload.wav
+sound3		= dryfire.wav
+sound4		= retrieve.wav
+sound5		= putaway.wav
+fireloop		= 2000
+
+;HUD muzzleflash position
+horiz		= 4.2
+vert		= -0.9
+forward		= 10.37
+alignx		= 2.3
+aligny		= -2.2
+alignz		= 25
+
+;HUD animation frames list
+keyframe ratio	= 1
+select		= 1,20
+idle		= 20,50
+move		= 50,79
+start fire		= 81,82
+automatic fire	= 83,89
+end fire		= 90,95
+reload		= 96,179
+putaway		= 179,190
+
+;HUD sound frames list
+soundframes	= 4
+sframe0		= 82,1
+sframe1		= 100,2
+sframe2		= 108,5
+sframe3		= 1,4
+sframe4		= 127,6
+
+;AirMod / 117 Settings
+
+zoomaccuracy	= 10
+
+rotx		= -1
+roty		= 0.6
+rotz		= 5.5
+
+chamberedround	= 1
+noautoreload	= 1
+nofullreload	= 1
+runacc		= 16
+
+recoily		= 25
+recoilyreturn	= 90
+recoilx		= 10
+recoilxreturn	= 80
+zoomrecoily	= 15
+zoomrecoilyreturn	= 90
+zoomrecoilx	= 1
+zoomrecoilxreturn	= 95
+zoomalignx	= 2.5
+zoomaligny	= -2.6
+zoomalignz	= 20
+zoomgunlagspeed	= 4
+zoomgunlagxmax	= 0.1
+zoomgunlagymax	= 0.7
+zoomwalkspeed	= 0.35
+zoomturnspeed	= 0.35
+gunlagspeed	= 10
+gunlagxmax	= 3
+gunlagymax	= 3
+simplezoom	= 1
+simplezoommod	= 4.1
+simplezoomacc	= 0.1
+simplezoomx	= -2.212
+simplezoomy	= 0.3
+simplezoomspeed	= 4
+simplezoomflash	= 1
+runy		= -1
+
+simplezoomanim = 1
+zoomto		= 79,79
+zoomfrom	= 79,79
+zoom idle	= 79,79
+zoom move	= 50,80
+zoom start fire	= 81,82
+zoom automatic fire= 83,89
+zoom end fire	= 90,95

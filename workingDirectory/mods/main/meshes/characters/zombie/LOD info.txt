@@ -1,0 +1,2 @@
+lod1: Collapse ratio: 0.2906
+lod2: Collapse ratio: 0.0528

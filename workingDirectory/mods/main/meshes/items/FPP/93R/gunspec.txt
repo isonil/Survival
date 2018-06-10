@@ -1,0 +1,118 @@
+;93R weapon spec 117
+;Requires FPSC v117
+
+;GUN Model File Requirements
+
+;GUN Settings
+
+MUZZLECOLORR   = 252
+MUZZLECOLORG   = 150
+MUZZLECOLORB   = 54
+
+muzzleflash	= 4
+muzzlesize	= 16
+brass		= 4
+smokedecal	= gunsmoke
+damage		= 20
+damagetype	= 1
+scorchtype	= 1
+reloadqty		= 20
+accuracy		= 1
+range		= 2000
+
+;GUN Visuals
+
+textured      = 
+effect        = effectbank\BumpCubeReflectAlpha\BumpCubeReflectAlpha.fx
+transparency  = 0
+weapontype    = 1
+
+;GUN Sounds
+
+sound1	= fire.wav
+sound2	= reload.wav
+sound3	= dryfire.wav
+sound4	= cock.wav
+fireloop	= 800
+
+;HUD muzzleflash position
+horiz	= 4.2
+vert	= 0.75
+forward	= 14.5
+alignx	= 2.5
+aligny	= -1.5
+alignz	= 18
+
+;HUD animation frames list
+
+keyframe ratio = 1
+
+select		= 1,9
+idle		= 10,38
+move		= 39,61
+start fire		= 63,64
+end fire 		= 66,77
+automatic fire	= 66,75
+reload		= 81,122
+cock		= 123,150
+putaway		= 152,160
+
+;HUD sound frames list
+
+soundframes    = 3
+sframe0        = 64,1
+sframe1        = 83,2
+sframe2        = 130,4
+
+;AirMod / 117 Settings
+
+firerate		= 3
+burst		= 3
+
+zoomaccuracy	= 10
+
+rotx		=-2
+roty		=6.1
+rotz		=0
+
+chamberedround	= 1
+noautoreload	= 1
+nofullreload	= 1
+runacc		= 8
+
+recoily		= 30
+recoilyreturn	= 90
+recoilx		= 5
+recoilxreturn	= 80
+zoomrecoily	= 20
+zoomrecoilyreturn	= 90
+zoomrecoilx	= 2
+zoomrecoilxreturn	= 95
+zoomalignx	= 2.4
+zoomaligny	= -1.5
+zoomalignz	= 12
+zoomgunlagspeed	= 5
+zoomgunlagxmax	= 2
+zoomgunlagymax	= 0.3
+zoomwalkspeed	= 0.3
+zoomturnspeed	= 0.2
+gunlagspeed	= 10
+gunlagxmax	= 3
+gunlagymax	= 3
+simplezoom	= 1
+simplezoommod	= 3.4
+simplezoomacc	= 0.5
+simplezoomx	= -2.51
+simplezoomy	= 1.17
+simplezoomspeed	= 4
+simplezoomflash	= 1
+runy		= -1
+
+simplezoomanim	= 1
+zoomto		= 10,10
+zoomfrom	= 10,10
+zoom idle	= 10,10
+zoom move	= 39,61
+zoom start fire	= 63,64
+zoom end fire 	= 66,77
+zoom automatic fire= 66,75

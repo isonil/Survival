@@ -1,0 +1,22 @@
+# Blender MTL File: 'beachRock3.blend'
+# Material Count: 2
+
+newmtl Material
+Ns 96.078431
+Ka 0.800000 0.800000 0.800000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd diffuse_1.tga
+
+newmtl Material.001
+Ns 92.156863
+Ka 0.512000 0.512000 0.512000
+Kd 0.512000 0.512000 0.512000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd diffuse_2.tga

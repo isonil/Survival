@@ -1,0 +1,6 @@
+worldParts:
+    list:
+        - worldPartDef: WorldPart_FirstIsland
+          tilePosition:
+            x: 2
+            y: 2

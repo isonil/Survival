@@ -1,0 +1,11 @@
+# Mod info file.
+# This is a core mod.
+
+modInfo:
+    ID: core
+    name: Core
+    version: 1.0
+    author: Ison
+    description:  >
+        This is a core mod.
+        Provides all basic features.

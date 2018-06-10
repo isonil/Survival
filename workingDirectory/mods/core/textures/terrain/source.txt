@@ -1,0 +1,2 @@
+grass Grass0003 (Texture: #3409) http://www.cgtextures.com/texview.php?id=3409&PHPSESSID=tdui3l4kn6fkd6eh6ntdrvjtq3
+rocks Cliffs0149 (Texture: #49416) http://www.cgtextures.com/texview.php?id=49416&PHPSESSID=tdui3l4kn6fkd6eh6ntdrvjtq3
