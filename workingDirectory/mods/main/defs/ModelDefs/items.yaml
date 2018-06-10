@@ -1,0 +1,9 @@
+ModelDefs:
+    list:
+        - defName: Model_AKM
+          label: AKM model
+          description: AKM model.
+          LODs:
+            - resourcePath: items/weapons/AKM/AKM.obj
+              renderTechnique:
+                enum: Mesh

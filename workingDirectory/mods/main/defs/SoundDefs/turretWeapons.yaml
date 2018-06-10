@@ -1,0 +1,13 @@
+SoundDefs:
+    list:
+        - defName: Sound_HeavyTurretWeapon_Fire
+          label: heavy turret weapon fire sound
+          description: Heavy turret weapon fire sound.
+          path: items/heavyTurretWeapon/fire.ogg
+          volumeRandomRange:
+            from: 0.9
+            to: 1.0
+          pitchRandomRange:
+            from: 0.95
+            to: 1.0
+          isGUISound: false

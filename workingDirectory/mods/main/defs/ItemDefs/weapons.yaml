@@ -1,0 +1,50 @@
+ItemDefs:
+    list:
+        - defName: Item_AKM
+          label: AKM
+          description: AKM.
+          cachedCollisionShapeDef: CachedCollisionShape_Sphere_Small
+          mass: 5.0
+          modelDef: Model_AKM
+          reloadSoundDef: Sound_AKM_Reload
+          equipSoundDef: Sound_SwitchItem1
+          putAwaySoundDef: Sound_SwitchItem2
+          slotType:
+            enum: Hands
+          textureInInventory: GUI/items/weapons/AKM.png
+          sizeInInventory:
+            x: 2
+            y: 1
+          FPPProperties:
+            modelDef: Model_AKM_FPP
+            animationFramesSetDef: AnimationFramesSet_AKM
+            basePosition:
+                x: 0.286555
+                y: -0.0946227
+                z: 0.360129
+            baseRotation:
+                x: -4.629
+                y: -171.386
+                z: -6.769
+            aimPosition:
+                x: 0.0858468
+                y: 0.00348858
+                z: 0.269927
+            aimRotation:
+                x: -1.78793
+                y: -177.803
+                z: -4.53195
+          onUsed:
+            soundDef: Sound_AKM_Fire
+            minDuration: 100.0
+            continuousUse: true
+            timeBetweenUseAndActualEffects: 0.0
+            isMelee: false
+            dealsDamage: 10
+            recoil: 2.5
+            minProjectilesSpreadAngle: 0.9
+            gathersResources:
+              mineableTags:
+                - tree
+              efficiency: 10
+            effectDef: Effect_Gunshot

@@ -1,0 +1,23 @@
+EffectDefs:
+    list:
+        - defName: Effect_Gunshot
+          label: gunshot effect
+          description: Gunshot effect.
+          particleEffects:
+            - particlesGroupDef: ParticlesGroup_GunshotFire
+              duration: 60.0
+            
+            - particlesGroupDef: ParticlesGroup_GunshotSmoke
+              duration: 60.0
+              
+        - defName: Effect_Fire
+          label: fire effect
+          description: Fire effect.
+          particleEffects:
+            - particlesGroupDef: ParticlesGroup_Fire
+              lastsForever: true
+            
+            - particlesGroupDef: ParticlesGroup_Smoke
+              lastsForever: true
+          soundDef: Sound_Fire
+              

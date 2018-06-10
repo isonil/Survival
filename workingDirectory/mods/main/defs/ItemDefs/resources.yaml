@@ -1,0 +1,45 @@
+ItemDefs:
+    list:
+        - defName: Item_Wood
+          label: wood
+          description: Wood.
+          cachedCollisionShapeDef: CachedCollisionShape_Sphere_Small
+          modelDef: Model_Wood
+          textureInInventory: GUI/items/resources/wood.png
+          sizeInInventory:
+            x: 2
+            y: 1
+          maxStack: 20
+            
+        - defName: Item_MinedIronOre
+          label: iron ore
+          description: Iron ore.
+          cachedCollisionShapeDef: CachedCollisionShape_Sphere_Small
+          modelDef: Model_MinedIronOre
+          textureInInventory: GUI/items/resources/minedIronOre.png
+          sizeInInventory:
+            x: 1
+            y: 1
+          maxStack: 20
+            
+        - defName: Item_MinedCopperOre
+          label: copper ore
+          description: Copper ore.
+          cachedCollisionShapeDef: CachedCollisionShape_Sphere_Small
+          modelDef: Model_MinedCopperOre
+          textureInInventory: GUI/items/resources/minedCopperOre.png
+          sizeInInventory:
+            x: 1
+            y: 1
+          maxStack: 20
+            
+        - defName: Item_MinedGranite
+          label: granite
+          description: Granite.
+          cachedCollisionShapeDef: CachedCollisionShape_Sphere_Small
+          modelDef: Model_MinedGranite
+          textureInInventory: GUI/items/resources/minedGranite.png
+          sizeInInventory:
+            x: 1
+            y: 1
+          maxStack: 20

@@ -1,0 +1,15 @@
+ParticleSpriteDefs:
+    list:
+        - defName: ParticleSprite_Fire
+          label: fire particle sprite
+          description: Fire particle sprite.
+          texturePath: particles/fire.bmp
+          scale:
+            x: 0.3
+            y: 0.3
+          blending:
+            enum: Add
+          texturesCountInAtlas:
+            x: 2
+            y: 2
+            

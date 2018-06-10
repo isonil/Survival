@@ -1,0 +1,10 @@
+ModelDefs:
+    list:
+        - defName: Model_AKM_FPP
+          label: FPP AKM model
+          description: A FPP AKM model.
+          LODs:
+            - resourcePath: items/FPP/AKM/AKM.x
+              renderTechnique:
+                enum: AnimatedMesh
+              scale: 0.04

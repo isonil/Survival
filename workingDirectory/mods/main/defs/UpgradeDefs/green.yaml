@@ -1,0 +1,101 @@
+UpgradeDefs:
+    list:
+      - defName: Upgrade_HP
+        label: Hardy
+        description: Adds additional hit points. One of the basic upgrades. Sooner or later it will save your life.
+        color:
+          enum: Green
+        position:
+          x: 120
+          y: 510
+        icon: GUI/icons/upgrades/hp.png
+        unlockedIcon: GUI/icons/upgrades/hp_unlocked.png
+        requiredUpgrade:
+          upgradeDef: Upgrade_Root
+          from:
+            enum: Left
+          to:
+            enum: Down
+        characterStatsChange:
+          maxHPDiff: 30
+        requiredUpgradePoints: 3
+            
+      - defName: Upgrade_MoveSpeed
+        label: Rapid Man
+        description: Feeling too slow running away from zombies? Worry no more. Now you can run as fast as if there was a giant monstrous chicken right behind your back.
+        color:
+          enum: Green
+        position:
+          x: 40
+          y: 510
+        icon: GUI/icons/upgrades/moveSpeed.png
+        unlockedIcon: GUI/icons/upgrades/moveSpeed_unlocked.png
+        requiredUpgrade:
+          upgradeDef: Upgrade_HP
+          from:
+            enum: Left
+          to:
+            enum: Right
+        characterStatsChange:
+          moveSpeedMultiplier: 1.2
+        requiredUpgradePoints: 3
+            
+      - defName: Upgrade_Jump
+        label: High Leap
+        description: Increases jump height. Yes, there are situations in which it will save your life, but don't count on it.
+        color:
+          enum: Green
+        position:
+          x: 200
+          y: 510
+        icon: GUI/icons/upgrades/jump.png
+        unlockedIcon: GUI/icons/upgrades/jump_unlocked.png
+        requiredUpgrade:
+          upgradeDef: Upgrade_HP
+          from:
+            enum: Right
+          to:
+            enum: Left
+        characterStatsChange:
+          jumpVelocityMultiplier: 1.2
+        requiredUpgradePoints: 3
+            
+      - defName: Upgrade_FallDamage
+        label: Smooth Fall
+        description: Decreases fall damage. Quite useful... sometimes... probably.
+        color:
+          enum: Green
+        position:
+          x: 70
+          y: 430
+        icon: GUI/icons/upgrades/fallDamage.png
+        unlockedIcon: GUI/icons/upgrades/fallDamage_unlocked.png
+        requiredUpgrade:
+          upgradeDef: Upgrade_HP
+          from:
+            enum: Up
+          to:
+            enum: Down
+        characterStatsChange:
+          fallDamageMultiplier: 0.5
+        requiredUpgradePoints: 3
+        
+      - defName: Upgrade_Regeneration
+        label: Regeneration
+        description: Your health will regenerate slowly over time. Could there possibly be any better thing than this?
+        color:
+          enum: Green
+        position:
+          x: 170
+          y: 430
+        icon: GUI/icons/upgrades/regeneration.png
+        unlockedIcon: GUI/icons/upgrades/regeneration_unlocked.png
+        requiredUpgrade:
+          upgradeDef: Upgrade_HP
+          from:
+            enum: Up
+          to:
+            enum: Down
+        characterStatsChange:
+          HPRegenerationPer5SecDiff: 5
+        requiredUpgradePoints: 3

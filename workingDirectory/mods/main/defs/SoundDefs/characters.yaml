@@ -1,0 +1,7 @@
+SoundDefs:
+    list:
+        - defName: Sound_Zombie_OnSpawned
+          label: zombie on spawned sound
+          description: Zombie on spawned sound.
+          path: characters/zombieOnSpawned.ogg
+          isGUISound: false

@@ -1,0 +1,50 @@
+ModelDefs:
+    list:
+        - defName: Model_WoodenWall
+          label: wooden wall model
+          description: Wooden wall model.
+          LODs:
+            - resourcePath: structures/woodenWall/woodenWall.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: staticSolid
+              
+        - defName: Model_WoodenFloor
+          label: wooden floor model
+          description: Wooden floor model.
+          LODs:
+            - resourcePath: structures/woodenFloor/woodenFloor.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: staticSolid
+              
+        - defName: Model_Fence
+          label: fence model
+          description: Fence model.
+          LODs:
+            - resourcePath: structures/fence/fence.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: staticSolid
+              
+        - defName: Model_Barricade
+          label: barricade model
+          description: Barricade model.
+          LODs:
+            - resourcePath: structures/barricade/barricade.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: dynamicSolid
+              scale: 0.5
+            - resourcePath: structures/barricade/barricade_lod1.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: dynamicSolid
+              scale: 0.5
+              distance: 10.0
+            - resourcePath: structures/barricade/barricade_lod2.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: dynamicSolid
+              scale: 0.5
+              distance: 20.0

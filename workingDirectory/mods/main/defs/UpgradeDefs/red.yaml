@@ -1,0 +1,62 @@
+UpgradeDefs:
+    list:
+      - defName: Upgrade_MeleeDamage
+        label: Melee Damage
+        description: Increases melee damage. Close combat - it always works.
+        color:
+          enum: Red
+        position:
+          x: 360
+          y: 430
+        icon: GUI/icons/upgrades/meleeDamage.png
+        unlockedIcon: GUI/icons/upgrades/meleeDamage_unlocked.png
+        requiredUpgrade:
+          upgradeDef: Upgrade_Root
+          from:
+            enum: Up
+          to:
+            enum: Down
+        characterStatsChange:
+          meleeDamageMultiplier: 1.2
+        requiredUpgradePoints: 3
+            
+      - defName: Upgrade_RangedDamage
+        label: Ranged Damage
+        description: Increases ranged damage. For those who don't like close contact with not-very-clean creatures.
+        color:
+          enum: Red
+        position:
+          x: 280
+          y: 510
+        icon: GUI/icons/upgrades/rangedDamage.png
+        unlockedIcon: GUI/icons/upgrades/rangedDamage_unlocked.png
+        requiredUpgrade:
+          upgradeDef: Upgrade_Root
+          from:
+            enum: Up
+          to:
+            enum: Right
+        characterStatsChange:
+          rangedDamageMultiplier: 1.2
+        requiredUpgradePoints: 3
+            
+      - defName: Upgrade_Recoil
+        label: Recoil
+        description: There is nothing better than accurate, deadly shot.
+        color:
+          enum: Red
+        position:
+          x: 440
+          y: 510
+        icon: GUI/icons/upgrades/recoil.png
+        unlockedIcon: GUI/icons/upgrades/recoil_unlocked.png
+        requiredUpgrade:
+          upgradeDef: Upgrade_Root
+          from:
+            enum: Up
+          to:
+            enum: Left
+        characterStatsChange:
+          recoilMultiplier: 0.9
+        requiredUpgradePoints: 3
+            

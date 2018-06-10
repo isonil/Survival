@@ -1,0 +1,17 @@
+EffectDefs:
+    list:
+        - defName: Effect_OnHitMetal
+          label: on hit metal effect
+          description: On hit metal effect.
+          particleEffects:
+            - particlesGroupDef: ParticlesGroup_Smoke
+              duration: 100.0
+          soundDef: Sound_OnHitMetal
+          
+        - defName: Effect_OnHitWood
+          label: on hit wood effect
+          description: On hit wood effect.
+          particleEffects:
+            - particlesGroupDef: ParticlesGroup_Smoke
+              duration: 100.0
+          soundDef: Sound_OnHitWood

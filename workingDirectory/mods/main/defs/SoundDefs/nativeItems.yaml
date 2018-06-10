@@ -1,0 +1,13 @@
+SoundDefs:
+    list:
+        - defName: Sound_NativeZombieHand_Attack
+          label: native zombie hand attack sound
+          description: Native zombie hand attack sound.
+          path: items/nativeZombieHand/attack.ogg
+          volumeRandomRange:
+            from: 0.9
+            to: 1.0
+          pitchRandomRange:
+            from: 0.95
+            to: 1.0
+          isGUISound: false

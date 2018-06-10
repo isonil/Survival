@@ -1,0 +1,188 @@
+ModelDefs:
+    list:
+        - defName: Model_Granite_a
+          label: granite model
+          description: A granite model.
+          LODs:
+            - resourcePath: nature/misc/granite/granite_a.obj
+              renderTechnique:
+                enum: Mesh
+            - resourcePath: nature/misc/granite/granite_a_lod1.obj
+              renderTechnique:
+                enum: Mesh
+              distance: 15.0
+            - resourcePath: nature/misc/granite/granite_a_lod2.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: dynamicSolid
+              distance: 30.0
+              
+        - defName: Model_Granite_b
+          label: granite model
+          description: A granite model.
+          LODs:
+            - resourcePath: nature/misc/granite/granite_b.obj
+              renderTechnique:
+                enum: Mesh
+            - resourcePath: nature/misc/granite/granite_b_lod1.obj
+              renderTechnique:
+                enum: Mesh
+              distance: 15.0
+            - resourcePath: nature/misc/granite/granite_b_lod2.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: dynamicSolid
+              distance: 30.0
+              
+        - defName: Model_Granite_c
+          label: granite model
+          description: A granite model.
+          LODs:
+            - resourcePath: nature/misc/granite/granite_c.obj
+              renderTechnique:
+                enum: Mesh
+            - resourcePath: nature/misc/granite/granite_c_lod1.obj
+              renderTechnique:
+                enum: Mesh
+              distance: 15.0
+            - resourcePath: nature/misc/granite/granite_c_lod2.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: dynamicSolid
+              distance: 30.0
+              
+        - defName: Model_IronOre_a
+          label: iron ore model
+          description: An iron ore model.
+          LODs:
+            - resourcePath: nature/misc/ironOre/ironOre_a.obj
+              renderTechnique:
+                enum: Mesh
+            - resourcePath: nature/misc/ironOre/ironOre_a_lod1.obj
+              renderTechnique:
+                enum: Mesh
+              distance: 15.0
+            - resourcePath: nature/misc/ironOre/ironOre_a_lod2.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: dynamicSolid
+              distance: 30.0
+              
+        - defName: Model_IronOre_b
+          label: iron ore model
+          description: An iron ore model.
+          LODs:
+            - resourcePath: nature/misc/ironOre/ironOre_b.obj
+              renderTechnique:
+                enum: Mesh
+            - resourcePath: nature/misc/ironOre/ironOre_b_lod1.obj
+              renderTechnique:
+                enum: Mesh
+              distance: 15.0
+            - resourcePath: nature/misc/ironOre/ironOre_b_lod2.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: dynamicSolid
+              distance: 30.0
+              
+        - defName: Model_IronOre_c
+          label: iron ore model
+          description: An iron ore model.
+          LODs:
+            - resourcePath: nature/misc/ironOre/ironOre_c.obj
+              renderTechnique:
+                enum: Mesh
+            - resourcePath: nature/misc/ironOre/ironOre_c_lod1.obj
+              renderTechnique:
+                enum: Mesh
+              distance: 15.0
+            - resourcePath: nature/misc/ironOre/ironOre_c_lod2.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: dynamicSolid
+              distance: 30.0
+              
+        - defName: Model_IronOre_d
+          label: iron ore model
+          description: An iron ore model.
+          LODs:
+            - resourcePath: nature/misc/ironOre/ironOre_d.obj
+              renderTechnique:
+                enum: Mesh
+            - resourcePath: nature/misc/ironOre/ironOre_d_lod1.obj
+              renderTechnique:
+                enum: Mesh
+              distance: 15.0
+            - resourcePath: nature/misc/ironOre/ironOre_d_lod2.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: dynamicSolid
+              distance: 30.0
+              
+        - defName: Model_CopperOre_a
+          label: copper ore model
+          description: A copper ore model.
+          LODs:
+            - resourcePath: nature/misc/copperOre/copperOre_a.obj
+              renderTechnique:
+                enum: Mesh
+            - resourcePath: nature/misc/copperOre/copperOre_a_lod1.obj
+              renderTechnique:
+                enum: Mesh
+              distance: 15.0
+            - resourcePath: nature/misc/copperOre/copperOre_a_lod2.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: dynamicSolid
+              distance: 30.0
+              
+        - defName: Model_CopperOre_b
+          label: copper ore model
+          description: A copper ore model.
+          LODs:
+            - resourcePath: nature/misc/copperOre/copperOre_b.obj
+              renderTechnique:
+                enum: Mesh
+            - resourcePath: nature/misc/copperOre/copperOre_b_lod1.obj
+              renderTechnique:
+                enum: Mesh
+              distance: 15.0
+            - resourcePath: nature/misc/copperOre/copperOre_b_lod2.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: dynamicSolid
+              distance: 30.0
+              
+        - defName: Model_CopperOre_c
+          label: copper ore model
+          description: A copper ore model.
+          LODs:
+            - resourcePath: nature/misc/copperOre/copperOre_c.obj
+              renderTechnique:
+                enum: Mesh
+            - resourcePath: nature/misc/copperOre/copperOre_c_lod1.obj
+              renderTechnique:
+                enum: Mesh
+              distance: 15.0
+            - resourcePath: nature/misc/copperOre/copperOre_c_lod2.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: dynamicSolid
+              distance: 30.0
+              
+        - defName: Model_CopperOre_d
+          label: copper ore model
+          description: A copper ore model.
+          LODs:
+            - resourcePath: nature/misc/copperOre/copperOre_d.obj
+              renderTechnique:
+                enum: Mesh
+            - resourcePath: nature/misc/copperOre/copperOre_d_lod1.obj
+              renderTechnique:
+                enum: Mesh
+              distance: 15.0
+            - resourcePath: nature/misc/copperOre/copperOre_d_lod2.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: dynamicSolid
+              distance: 30.0

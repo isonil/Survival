@@ -1,0 +1,25 @@
+UpgradeDefs:
+    list:
+      - defName: Upgrade_TEST1
+        label: PLACEHOLDER
+        description: Unlock wooden wall.
+        color:
+          enum: Blue
+        position:
+          x: 440
+          y: 590
+        icon: GUI/icons/upgrades/meleeDamage.png
+        unlockedIcon: GUI/icons/upgrades/meleeDamage_unlocked.png
+        requiredUpgrade:
+          upgradeDef: Upgrade_Root
+          from:
+            enum: Right
+          to:
+            enum: Left
+        unlockStructures:
+          recipeDefs:
+            - StructureRecipe_WoodenWall
+        characterStatsChange:
+          moveSpeedMultiplier: 1.2
+          fallDamageMultiplier: 0.5
+        requiredUpgradePoints: 3

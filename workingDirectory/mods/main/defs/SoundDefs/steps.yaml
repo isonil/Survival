@@ -1,0 +1,13 @@
+SoundDefs:
+    list:
+        - defName: Sound_SolidStep
+          label: solid step sound
+          description: Solid step sound.
+          path: steps/solid.ogg
+          volumeRandomRange:
+            from: 0.9
+            to: 1.0
+          pitchRandomRange:
+            from: 0.95
+            to: 1.0
+          isGUISound: false

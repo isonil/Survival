@@ -1,0 +1,39 @@
+ModelDefs:
+    list:
+        - defName: Model_Fern
+          label: fern model
+          description: A fern model.
+          LODs:
+            - resourcePath: nature/misc/fern/fern.obj
+              renderTechnique:
+                enum: Mesh
+              scale: 2.0
+            - resourcePath: billboards/nature/misc/fern.png
+              renderTechnique:
+                enum: HorizontalBillboardBatched
+              distance: 30
+              scale: 4.0
+        
+        - defName: Model_Elderbush
+          label: elderbush model
+          description: An elderbush model.
+          LODs:
+            - resourcePath: nature/misc/elderbush/elderbush.obj
+              renderTechnique:
+                enum: Mesh
+            - resourcePath: nature/misc/elderbush/elderbush.obj
+              renderTechnique:
+                enum: MeshBatched
+              distance: 30
+        
+        - defName: Model_Lilac
+          label: lilac model
+          description: A lilac model.
+          LODs:
+            - resourcePath: nature/misc/lilac/lilac.obj
+              renderTechnique:
+                enum: Mesh
+            - resourcePath: nature/misc/lilac/lilac.obj
+              renderTechnique:
+                enum: MeshBatched
+              distance: 30

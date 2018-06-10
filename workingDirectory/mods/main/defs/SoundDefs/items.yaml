@@ -1,0 +1,19 @@
+SoundDefs:
+    list:
+        - defName: Sound_AKM_Fire
+          label: AKM fire sound
+          description: AKM fire sound.
+          path: items/AKM/fire2.ogg
+          volumeRandomRange:
+            from: 0.9
+            to: 1.0
+          pitchRandomRange:
+            from: 0.95
+            to: 1.0
+          isGUISound: false
+          
+        - defName: Sound_AKM_Reload
+          label: AKM reload sound
+          description: AKM reload sound.
+          path: items/AKM/reload.ogg
+          isGUISound: false

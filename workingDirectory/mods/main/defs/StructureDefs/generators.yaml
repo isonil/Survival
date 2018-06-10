@@ -1,0 +1,17 @@
+StructureDefs:
+    list:
+        - defName: Structure_Generator
+          label: generator
+          description: A generator.
+          cachedCollisionShapeDef: CachedCollisionShape_Box_HeavyTurretBase
+          stepSoundDef: Sound_SolidStep
+          onHitEffectDef: Effect_OnHitMetal
+          modelDef: Model_HeavyTurretBase
+          category:
+              enum:
+                  Security
+          itemsWhenDeconstructed:
+            - def: Item_Wood
+              count: 5
+          maxHP: 100
+          generatedPower: 35

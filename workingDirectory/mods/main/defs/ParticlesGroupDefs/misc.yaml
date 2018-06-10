@@ -1,0 +1,157 @@
+ParticlesGroupDefs:
+    list:
+        - defName: ParticlesGroup_Fire
+          label: fire particles group
+          description: Fire particles group.
+          particlesGroupModelDef: ParticlesGroupModel_Fire
+          particleSpriteDef: ParticleSprite_Fire
+          maxParticlesCount: 135
+          gravity:
+            x: 0.0
+            y: 3.0
+            z: 0.0
+          emitters:
+            - type:
+                enum: Straight
+              direction:
+                x: 0.0
+                y: 1.0
+                z: 0.0
+              zoneSphere:
+                position:
+                  x: 0.0
+                  y: -1.0
+                  z: 0.0
+                radius: 0.5
+              flow: 40
+              force:
+                from: 1.0
+                to: 2.5
+                
+            - type:
+                enum: Straight
+              direction:
+                x: 1.0
+                y: 0.6
+                z: 0.0
+              zoneSphere:
+                position:
+                  x: 0.15
+                  y: -1.2
+                  z: 0.075
+                radius: 0.1
+              flow: 15
+              force:
+                from: 0.5
+                to: 1.5
+                
+            - type:
+                enum: Straight
+              direction:
+                x: -0.6
+                y: 0.8
+                z: -0.8
+              zoneSphere:
+                position:
+                  x: -0.375
+                  y: -1.15
+                  z: -0.375
+                radius: 0.3
+              flow: 15
+              force:
+                from: 0.5
+                to: 1.5
+                
+            - type:
+                enum: Straight
+              direction:
+                x: -0.8
+                y: 0.5
+                z: 0.2
+              zoneSphere:
+                position:
+                  x: -0.255
+                  y: -1.2
+                  z: 0.225
+                radius: 0.2
+              flow: 10
+              force:
+                from: 0.5
+                to: 1.5
+                
+            - type:
+                enum: Straight
+              direction:
+                x: 0.1
+                y: 0.8
+                z: -1.0
+              zoneSphere:
+                position:
+                  x: -0.075
+                  y: -1.2
+                  z: -0.3
+                radius: 0.2
+              flow: 10
+              force:
+                from: 0.5
+                to: 1.5
+                
+        - defName: ParticlesGroup_GunshotFire
+          label: gunshot fire particles group
+          description: Gunshot fire particles group.
+          particlesGroupModelDef: ParticlesGroupModel_GunshotFire
+          particleSpriteDef: ParticleSprite_Fire
+          maxParticlesCount: 100
+          gravity:
+            x: 0.0
+            y: 0.3
+            z: 0.0
+          emitters:
+            - type:
+                enum: Straight
+              direction:
+                x: 0.0
+                y: 0.0
+                z: 1.0
+              zoneSphere:
+                position:
+                  x: 0.0
+                  y: 0.0
+                  z: 0.0
+                radius: 0.2
+              flow: 1000
+              force:
+                from: 4.0
+                to: 5.0
+                
+        - defName: ParticlesGroup_GunshotSmoke
+          label: gunshot smoke particles group
+          description: Gunshot smoke particles group.
+          particlesGroupModelDef: ParticlesGroupModel_GunshotSmoke
+          particleSpriteDef: ParticleSprite_Smoke
+          maxParticlesCount: 100
+          gravity:
+            x: 0.0
+            y: 0.4
+            z: 0.0
+          emitters:
+            - type:
+                enum: Spheric
+              direction:
+                x: 0.0
+                y: 1.0
+                z: 0.0
+              angle:
+                from: 0.0
+                to: 1.57079
+              zoneSphere:
+                position:
+                  x: 0.0
+                  y: 0.0
+                  z: 0.0
+                radius: 0.3
+              flow: 80
+              force:
+                from: 0.5
+                to: 1.0
+        

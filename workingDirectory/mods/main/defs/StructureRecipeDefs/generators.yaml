@@ -1,0 +1,11 @@
+StructureRecipeDefs:
+    list:
+        - defName: StructureRecipe_Generator
+          label: generator recipe
+          description: Generator recipe.
+          structureDef: Structure_Generator
+          isUnlockedByDefault: true
+          constructingExpForConstructing: 50
+          requiredItems:
+            - def: Item_Wood
+              count: 1

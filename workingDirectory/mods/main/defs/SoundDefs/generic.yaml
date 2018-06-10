@@ -1,0 +1,19 @@
+SoundDefs:
+    list:
+        - defName: Sound_SwitchItem1
+          label: switch item 1 sound
+          description: Switch item 1 sound.
+          path: generic/switchItem1.wav
+          isGUISound: false
+          
+        - defName: Sound_SwitchItem2
+          label: switch item 2 sound
+          description: Switch item 2 sound.
+          path: generic/switchItem2.ogg
+          isGUISound: false
+          
+        - defName: Sound_Fire
+          label: fire sound
+          description: Fire sound.
+          path: generic/fire.ogg
+          isGUISound: false

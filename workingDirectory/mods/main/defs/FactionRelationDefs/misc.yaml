@@ -1,0 +1,9 @@
+FactionRelationDefs:
+    list:
+        - defName: FactionRelation_PlayersWithEnemies
+          label: players with enemies faction relation
+          description: Players with enemies faction relation.
+          firstFactionDef: Faction_Players
+          secondFactionDef: Faction_Enemies
+          relation:
+            enum: Hostile

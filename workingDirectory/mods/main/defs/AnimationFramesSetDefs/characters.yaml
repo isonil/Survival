@@ -1,0 +1,26 @@
+AnimationFramesSetDefs:
+    list:
+        - defName: AnimationFramesSet_Zombie
+          label: zombie animation frames set
+          description: Zombie animation frames set.
+          walk:
+            from: 0
+            to: 40
+          attack:
+            from: 41
+            to: 81
+          harmed:
+            from: 82
+            to: 123
+          death:
+            from: 124
+            to: 162
+          onSpawned:
+            from: 163
+            to: 224
+          run:
+            from: 225
+            to: 264
+          idle:
+            from: 265
+            to: 305

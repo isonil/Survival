@@ -1,0 +1,28 @@
+ModelDefs:
+    list:
+        - defName: Model_Zombie
+          label: zombie model
+          description: A zombie model.
+          LODs:
+            - resourcePath: characters/zombie/zombie.x
+              renderTechnique:
+                enum: AnimatedMesh
+              scale: 0.33333
+            - resourcePath: characters/zombie/zombie_lod1.x
+              renderTechnique:
+                enum: AnimatedMesh
+              scale: 0.33333
+              distance: 8.5
+            - resourcePath: characters/zombie/zombie_lod2.x
+              renderTechnique:
+                enum: AnimatedMesh
+              scale: 0.33333
+              distance: 16.0
+              
+        - defName: Model_FlyingBot
+          label: flying bot model
+          description: A flying bot model.
+          LODs:
+            - resourcePath: characters/flyingBot/flyingBot.obj
+              renderTechnique:
+                enum: Mesh

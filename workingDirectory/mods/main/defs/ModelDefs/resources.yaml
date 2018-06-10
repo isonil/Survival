@@ -1,0 +1,33 @@
+ModelDefs:
+    list:
+        - defName: Model_Wood
+          label: wood model
+          description: A wood model.
+          LODs:
+            - resourcePath:
+              renderTechnique:
+                enum: Mesh
+                
+        - defName: Model_MinedIronOre
+          label: iron ore model
+          description: An iron ore model.
+          LODs:
+            - resourcePath:
+              renderTechnique:
+                enum: Mesh
+                
+        - defName: Model_MinedCopperOre
+          label: copper ore model
+          description: A copper ore model.
+          LODs:
+            - resourcePath:
+              renderTechnique:
+                enum: Mesh
+                
+        - defName: Model_MinedGranite
+          label: granite model
+          description: A granite model.
+          LODs:
+            - resourcePath:
+              renderTechnique:
+                enum: Mesh

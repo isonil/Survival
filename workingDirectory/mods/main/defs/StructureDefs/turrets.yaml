@@ -1,0 +1,46 @@
+StructureDefs:
+    list:
+        - defName: Structure_HeavyTurret
+          label: heavy turret
+          description: A heavy turret.
+          cachedCollisionShapeDef: CachedCollisionShape_Box_HeavyTurretBase
+          stepSoundDef: Sound_SolidStep
+          onHitEffectDef: Effect_OnHitMetal
+          modelDef: Model_HeavyTurretBase
+          category:
+              enum:
+                  Security
+          itemsWhenDeconstructed:
+            - def: Item_Wood
+              count: 5
+          maxHP: 100
+          turretInfo:
+            headCachedCollisionShapeDef: CachedCollisionShape_Sphere_HeavyTurretHead
+            headModelDef: Model_HeavyTurretHead
+            weaponItemDef: Item_HeavyTurretWeapon
+            distanceToHead: 1.75
+            barrelOffsets:
+              - x: -1.6323
+                y: 0.7773
+                z: 1.1751
+
+              - x: -1.8924
+                y: 0.1775
+                z: 1.1633
+
+              - x: -2.2122
+                y: -0.4359
+                z: 1.1648
+
+              - x: 1.5915
+                y: 0.7841
+                z: 1.1624
+
+              - x: 1.8843
+                y: 0.1757
+                z: 1.1624
+
+              - x: 2.1924
+                y: -0.4306
+                z: 1.1620
+          requiredPower: 10

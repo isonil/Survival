@@ -1,0 +1,48 @@
+MineableDefs:
+    list:
+        - defName: Mineable_Granite
+          label: granite
+          description: Granite.
+          modelDefs:
+            - Model_Granite_a
+            - Model_Granite_b
+            - Model_Granite_c
+          cachedCollisionShapeDef: CachedCollisionShape_Sphere_Rock
+          onHitEffectDef: Effect_OnHitGeneric
+          resources:
+            - itemDef: Item_MinedGranite
+              count: 100
+          mineableTags:
+            - ore
+          
+        - defName: Mineable_IronOre
+          label: iron ore
+          description: An iron ore.
+          modelDefs:
+            - Model_IronOre_a
+            - Model_IronOre_b
+            - Model_IronOre_c
+            - Model_IronOre_d
+          cachedCollisionShapeDef: CachedCollisionShape_Sphere_Rock
+          onHitEffectDef: Effect_OnHitGeneric
+          resources:
+            - itemDef: Item_MinedIronOre
+              count: 100
+          mineableTags:
+            - ore
+          
+        - defName: Mineable_CopperOre
+          label: copper ore
+          description: A copper ore.
+          modelDefs:
+            - Model_CopperOre_a
+            - Model_CopperOre_b
+            - Model_CopperOre_c
+            - Model_CopperOre_d
+          cachedCollisionShapeDef: CachedCollisionShape_Sphere_Rock
+          onHitEffectDef: Effect_OnHitGeneric
+          resources:
+            - itemDef: Item_MinedCopperOre
+              count: 100
+          mineableTags:
+            - ore

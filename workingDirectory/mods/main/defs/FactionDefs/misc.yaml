@@ -1,0 +1,5 @@
+FactionDefs:
+    list:
+        - defName: Faction_Enemies
+          label: enemies faction
+          description: Enemies faction.

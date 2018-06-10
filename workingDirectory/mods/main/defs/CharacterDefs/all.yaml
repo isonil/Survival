@@ -1,0 +1,59 @@
+CharacterDefs:
+    list:
+        - defName: Character_Zombie
+          label: zombie
+          description: A zombie.
+          modelDef: Model_Zombie
+          cachedCollisionShapeDef: CachedCollisionShape_Capsule_Zombie
+          animationFramesSetDef: AnimationFramesSet_Zombie
+          onSpawnedSoundDef: Sound_Zombie_OnSpawned
+          itemUseSourcePosOffsets:
+            - x: 0.0
+              y: 0.0
+              z: 0.0
+          onHitEffectDef: Effect_OnHitFlesh
+          mass: 85.0
+          maxHP: 100
+          damageInWaterPer5Seconds: 15
+          damageDuringDayPer5Seconds: 15
+          expPerKill: 30
+          onKilledAction:
+            enum: None
+          onKilledEffects:
+          
+        - defName: Character_FlyingBot
+          label: flying bot
+          description: A flying bot.
+          modelDef: Model_FlyingBot
+          cachedCollisionShapeDef: CachedCollisionShape_Sphere_FlyingBot
+          animationFramesSetDef: AnimationFramesSet_Zombie
+          onSpawnedSoundDef: Sound_Zombie_OnSpawned
+          itemUseSourcePosOffsets:
+            - x: 0.4149
+              y: 0.3439
+              z: 0.3494
+              
+            - x: -0.4289
+              y: 0.3283
+              z: 0.3503
+              
+            - x: 0.4196
+              y: 0.4920
+              z: 0.3498
+              
+            - x: -0.4259
+              y: 0.4926
+              z: 0.3498
+          onHitEffectDef: Effect_OnHitMetal
+          mass: 50.0
+          canFly: true
+          maxHP: 100
+          expPerKill: 30
+          onKilledAction:
+            enum: MakeBodyDynamic
+          onKilledEffects:
+            - effectDef: Effect_Explosion
+            - effectDef: Effect_Poof
+              disposeBodyTime: 5000.0
+          killWhenTouchedWater: true
+          canBeRevived: true

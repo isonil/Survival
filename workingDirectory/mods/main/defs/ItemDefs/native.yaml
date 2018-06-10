@@ -1,0 +1,34 @@
+ItemDefs:
+    list:
+        - defName: Item_NativeZombieHand
+          label: native zombie hand
+          description: Native zombie hand.
+          cachedCollisionShapeDef: CachedCollisionShape_Sphere_Small
+          modelDef: Model_NativeItem
+          slotType:
+            enum: Hands
+          textureInInventory: GUI/items/misc/nativeItem.png
+          onUsed:
+            soundDef: Sound_NativeZombieHand_Attack
+            minDuration: 150.0
+            timeBetweenUseAndActualEffects: 0.0
+            isMelee: true
+            dealsDamage: 10
+            
+        - defName: Item_NativeFlyingBotWeapon
+          label: native flying bot weapon
+          description: Native flying bot weapon.
+          cachedCollisionShapeDef: CachedCollisionShape_Sphere_Small
+          modelDef: Model_NativeItem
+          slotType:
+            enum: Hands
+          textureInInventory: GUI/items/misc/nativeItem.png
+          onUsed:
+            soundDef: Sound_NativeZombieHand_Attack
+            minDuration: 130.0
+            timeBetweenUseAndActualEffects: 0.0
+            isMelee: false
+            dealsDamage: 10
+            effectDef: Effect_Gunshot
+          characterStatsChange:
+            moveSpeedMultiplier: 0.5

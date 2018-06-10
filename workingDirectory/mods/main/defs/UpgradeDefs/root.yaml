@@ -1,0 +1,13 @@
+UpgradeDefs:
+    list:
+      - defName: Upgrade_Root
+        label: Root
+        description: Root upgrade, unlocked by default. This is where everything starts.
+        color:
+          enum: White
+        position:
+          x: 360
+          y: 590
+        isUnlockedByDefault: true
+        icon: GUI/icons/upgrades/root.png
+        unlockedIcon: GUI/icons/upgrades/root.png

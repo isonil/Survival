@@ -1,0 +1,43 @@
+MineableDefs:
+    list:
+        - defName: Mineable_Birch
+          label: birch
+          description: A birch.
+          modelDefs:
+            - Model_Birch_a
+            - Model_Birch_b
+            - Model_Birch_c
+          cachedCollisionShapeDef: CachedCollisionShape_Capsule_Tree
+          onHitEffectDef: Effect_OnHitWood
+          resources:
+            - itemDef: Item_Wood
+              count: 100
+          mineableTags:
+            - tree
+            
+        - defName: Mineable_Fir
+          label: fir
+          description: A fir.
+          modelDefs:
+            - Model_Fir_a
+            - Model_Fir_b
+          cachedCollisionShapeDef: CachedCollisionShape_Capsule_Tree
+          onHitEffectDef: Effect_OnHitWood
+          resources:
+            - itemDef: Item_Wood
+              count: 100
+          mineableTags:
+            - tree
+        
+        - defName: Mineable_Pine
+          label: pine
+          description: A pine.
+          modelDefs:
+            - Model_Pine_a
+          cachedCollisionShapeDef: CachedCollisionShape_Capsule_Tree
+          onHitEffectDef: Effect_OnHitWood
+          resources:
+            - itemDef: Item_Wood
+              count: 100
+          mineableTags:
+            - tree

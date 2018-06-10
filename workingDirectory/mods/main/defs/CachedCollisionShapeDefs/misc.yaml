@@ -1,0 +1,113 @@
+CachedCollisionShapeDefs:
+    list:
+        - defName: CachedCollisionShape_Capsule_Zombie
+          label: capsule shape (zombie)
+          description: A capsule shape (zombie).
+          type:
+              enum: Capsule
+          radius: 0.6
+          height: 1.6
+          posOffset:
+            x: 0.0
+            y: 0.8
+            z: 0.0
+            
+        - defName: CachedCollisionShape_Capsule_Tree
+          label: capsule shape (tree)
+          description: A capsule shape (tree).
+          type:
+              enum: Capsule
+          radius: 0.4
+          height: 3.0
+          posOffset:
+            x: 0.0
+            y: 1.5
+            z: 0.0
+        
+        - defName: CachedCollisionShape_Sphere_Rock
+          label: sphere shape (rock)
+          description: A sphere shape (rock).
+          type:
+              enum: Sphere
+          radius: 1.5
+          
+        - defName: CachedCollisionShape_Sphere_Small
+          label: sphere shape (small)
+          description: A sphere shape (small).
+          type:
+              enum: Sphere
+          radius: 0.5
+          
+        - defName: CachedCollisionShape_Sphere_HeavyTurretHead
+          label: sphere shape (heavy turret head)
+          description: A sphere shape (heavy turret head).
+          type:
+              enum: Sphere
+          radius: 1.0
+          
+        - defName: CachedCollisionShape_Sphere_FlyingBot
+          label: sphere shape (flying bot)
+          description: A sphere shape (flying bot).
+          type:
+              enum: Sphere
+          radius: 0.45
+          posOffset:
+              x: 0.0
+              y: 0.45
+              z: 0.0
+          
+        - defName: CachedCollisionShape_Box_WoodenWall
+          label: box shape (wooden wall)
+          description: Box shape (wooden wall).
+          type:
+              enum: Box
+          size:
+              x: 2.0
+              y: 2.0
+              z: 0.23
+          posOffset:
+              x: 0.0
+              y: 1.0
+              z: 0.0
+              
+        - defName: CachedCollisionShape_Box_WoodenFloor
+          label: box shape (wooden floor)
+          description: Box shape (wooden floor).
+          type:
+              enum: Box
+          size:
+              x: 2.0
+              y: 0.12
+              z: 2.0
+          posOffset:
+              x: 0.0
+              y: 0.06
+              z: 0.0
+              
+        - defName: CachedCollisionShape_Box_Fence
+          label: box shape (fence)
+          description: Box shape (fence).
+          type:
+              enum: Box
+          size:
+              x: 2.7
+              y: 0.83
+              z: 0.1
+          posOffset:
+              x: 0.0
+              y: 0.32
+              z: 0.0
+              
+        - defName: CachedCollisionShape_Box_HeavyTurretBase
+          label: box shape (heavy turret base)
+          description: Box shape (heavy turret base).
+          type:
+              enum: Box
+          size:
+              x: 2.0
+              y: 1.0
+              z: 2.0
+          posOffset:
+              x: 0.0
+              y: 0.45
+              z: 0.0

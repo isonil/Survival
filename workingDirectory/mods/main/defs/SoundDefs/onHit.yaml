@@ -1,0 +1,13 @@
+SoundDefs:
+    list:
+        - defName: Sound_OnHitMetal
+          label: on hit metal sound
+          description: On hit metal sound.
+          path: onHit/onHitMetal.ogg
+          isGUISound: false
+          
+        - defName: Sound_OnHitWood
+          label: on hit wood sound
+          description: On hit wood sound.
+          path: onHit/onHitWood.ogg
+          isGUISound: false

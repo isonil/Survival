@@ -1,0 +1,15 @@
+ItemDefs:
+    list:
+        - defName: Item_HeavyTurretWeapon
+          label: heavy turret weapon
+          description: Heavy turret weapon.
+          cachedCollisionShapeDef: CachedCollisionShape_Sphere_Small
+          modelDef: Model_NativeItem
+          textureInInventory: GUI/items/misc/nativeItem.png
+          onUsed:
+            soundDef: Sound_HeavyTurretWeapon_Fire
+            minDuration: 100.0
+            timeBetweenUseAndActualEffects: 0.0
+            isMelee: false
+            dealsDamage: 10
+            effectDef: Effect_Gunshot

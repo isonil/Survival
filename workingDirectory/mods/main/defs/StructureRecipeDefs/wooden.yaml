@@ -1,0 +1,41 @@
+StructureRecipeDefs:
+    list:
+        - defName: StructureRecipe_WoodenWall
+          label: wooden wall recipe
+          description: Wooden wall recipe.
+          structureDef: Structure_WoodenWall
+          isUnlockedByDefault: true
+          constructingExpForConstructing: 50
+          requiredItems:
+            - def: Item_Wood
+              count: 10
+              
+        - defName: StructureRecipe_Barricade
+          label: barricade recipe
+          description: Barricade recipe.
+          structureDef: Structure_Barricade
+          isUnlockedByDefault: true
+          constructingExpForConstructing: 50
+          requiredItems:
+            - def: Item_Wood
+              count: 15
+              
+        - defName: StructureRecipe_WoodenFloor
+          label: wooden floor recipe
+          description: Wooden floor recipe.
+          structureDef: Structure_WoodenFloor
+          isUnlockedByDefault: true
+          constructingExpForConstructing: 50
+          requiredItems:
+            - def: Item_Wood
+              count: 10
+              
+        - defName: StructureRecipe_Fence
+          label: fence recipe
+          description: Fence recipe.
+          structureDef: Structure_Fence
+          isUnlockedByDefault: true
+          constructingExpForConstructing: 50
+          requiredItems:
+            - def: Item_Wood
+              count: 10

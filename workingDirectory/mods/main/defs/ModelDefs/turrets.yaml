@@ -1,0 +1,17 @@
+ModelDefs:
+    list:
+        - defName: Model_HeavyTurretBase
+          label: heavy turret base model
+          description: Heavy turret base model.
+          LODs:
+            - resourcePath: structures/heavyTurret/heavyTurret_base_lod1.obj
+              renderTechnique:
+                enum: Mesh
+                
+        - defName: Model_HeavyTurretHead
+          label: heavy turret head model
+          description: Heavy turret head model.
+          LODs:
+            - resourcePath: structures/heavyTurret/heavyTurret_head_lod1.obj
+              renderTechnique:
+                enum: Mesh

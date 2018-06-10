@@ -1,0 +1,9 @@
+ModelDefs:
+    list:
+        - defName: Model_NativeItem
+          label: native item model
+          description: A native item model.
+          LODs:
+            - resourcePath: items/misc/nativeItem/nativeItem.obj
+              renderTechnique:
+                enum: Mesh

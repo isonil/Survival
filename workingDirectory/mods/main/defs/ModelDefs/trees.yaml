@@ -1,0 +1,91 @@
+ModelDefs:
+    list:
+        - defName: Model_Birch_a
+          label: birch model
+          description: A birch model.
+          LODs:
+            - resourcePath: nature/trees/birch/birch_a.obj
+              renderTechnique:
+                enum: Mesh
+            - resourcePath: nature/trees/birch/birch_a_lod1.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: dynamicTransparent
+              distance: 35.0
+              scale: 20.0
+              forceAllUpNormalsWhenBatched: true
+                
+        - defName: Model_Birch_b
+          label: birch model
+          description: A birch model.
+          LODs:
+            - resourcePath: nature/trees/birch/birch_b.obj
+              renderTechnique:
+                enum: Mesh
+            - resourcePath: nature/trees/birch/birch_b_lod1.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: dynamicTransparent
+              distance: 35.0
+              scale: 22.0
+              forceAllUpNormalsWhenBatched: true
+                
+        - defName: Model_Birch_c
+          label: birch model
+          description: A birch model.
+          LODs:
+            - resourcePath: nature/trees/birch/birch_c.obj
+              renderTechnique:
+                enum: Mesh
+            - resourcePath: nature/trees/birch/birch_c_lod1.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: dynamicTransparent
+              distance: 35.0
+              scale: 21.0
+              forceAllUpNormalsWhenBatched: true
+
+        - defName: Model_Fir_a
+          label: fir model
+          description: A fir model.
+          LODs:
+            - resourcePath: nature/trees/fir/fir_a.obj
+              renderTechnique:
+                enum: Mesh
+            - resourcePath: nature/trees/fir/fir_a_lod1.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: dynamicTransparent
+              distance: 35.0
+              scale: 20.0
+              forceAllUpNormalsWhenBatched: true
+                
+        - defName: Model_Fir_b
+          label: fir model
+          description: A fir model.
+          LODs:
+            - resourcePath: nature/trees/fir/fir_b.obj
+              renderTechnique:
+                enum: Mesh
+            - resourcePath: nature/trees/fir/fir_b_lod1.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: dynamicTransparent
+              distance: 35.0
+              scale: 21.0
+              forceAllUpNormalsWhenBatched: true
+                
+        - defName: Model_Pine_a
+          label: pine model
+          description: A pine model.
+          LODs:
+            - resourcePath: nature/trees/pine/pine_a.obj
+              renderTechnique:
+                enum: Mesh
+            - resourcePath: nature/trees/pine/pine_a_lod1.obj
+              renderTechnique:
+                enum: MeshBatched
+              batchTag: dynamicTransparent
+              distance: 35.0
+              scale: 22.5
+              forceAllUpNormalsWhenBatched: true

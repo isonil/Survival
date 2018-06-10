@@ -1,0 +1,11 @@
+StructureRecipeDefs:
+    list:
+        - defName: StructureRecipe_HeavyTurret
+          label: heavy turret recipe
+          description: Heavy turret recipe.
+          structureDef: Structure_HeavyTurret
+          isUnlockedByDefault: true
+          constructingExpForConstructing: 50
+          requiredItems:
+            - def: Item_Wood
+              count: 1

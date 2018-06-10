@@ -1,0 +1,20 @@
+AnimationFramesSetDefs:
+    list:
+        - defName: AnimationFramesSet_AKM
+          label: AKM animation frames set
+          description: AKM animation frames set.
+          idle_FPP:
+            from: 20
+            to: 50
+          use_FPP:
+            from: 83
+            to: 86
+          reload_FPP:
+            from: 96
+            to: 179
+          equip_FPP:
+            from: 1
+            to: 20
+          putAway_FPP:
+            from: 179
+            to: 190
