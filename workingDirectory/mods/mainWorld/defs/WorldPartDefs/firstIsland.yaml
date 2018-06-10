@@ -1,0 +1,80 @@
+WorldPartDefs:
+    list:
+        - defName: WorldPart_FirstIsland
+          label: first island
+          description: First island.
+          terrainDef: Terrain_FirstIsland
+          ground1StepSoundDef: Sound_SandStep
+          ground2StepSoundDef: Sound_GrassStep
+          ground3StepSoundDef: Sound_GrassStep
+          slopeStepSoundDef: Sound_RocksStep
+          isPlayerStartingWorldPart: true
+          playerStartingPosition:
+            x: 110.0
+            y: 110.0
+          randomMineablesCount: 500
+          randomMineables:
+            - def: Mineable_Birch
+              density: 1.0
+              placementPredicates:
+                slopeRange:
+                    from: 0.0
+                    to: 0.15
+                onlyAboveWaterLevel: true
+                isAllowedGround1: false
+            
+            - def: Mineable_Fir
+              density: 0.5
+              placementPredicates:
+                slopeRange:
+                    from: 0.0
+                    to: 0.15
+                onlyAboveWaterLevel: true
+                isAllowedGround1: false
+              
+            - def: Mineable_Pine
+              density: 0.5
+              placementPredicates:
+                slopeRange:
+                    from: 0.0
+                    to: 0.15
+                onlyAboveWaterLevel: true
+                isAllowedGround1: false
+              
+            - def: Mineable_Granite
+              density: 0.2
+              countPerGroupRange:
+                from: 3
+                to: 6
+              placementPredicates:
+                slopeRange:
+                    from: 0.3
+                    to: 0.5
+                onlyAboveWaterLevel: true
+            
+            - def: Mineable_IronOre
+              density: 0.2
+              countPerGroupRange:
+                from: 3
+                to: 6
+              placementPredicates:
+                slopeRange:
+                    from: 0.3
+                    to: 0.5
+                onlyAboveWaterLevel: true
+                
+            - def: Mineable_CopperOre
+              density: 0.2
+              countPerGroupRange:
+                from: 3
+                to: 6
+              placementPredicates:
+                slopeRange:
+                    from: 0.5
+                    to: 0.7
+                onlyAboveWaterLevel: true
+          mobs:
+            - characterDef: Character_Zombie
+              factionDef: Faction_Enemies
+              inHandsItemDef: Item_NativeZombieHand
+              spawnRateWeight: 1.0
