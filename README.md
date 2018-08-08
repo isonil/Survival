@@ -1,5 +1,5 @@
 # About
-Unfinished 3D game about surviving on an island, written in C++14. Almost entirely made from scratch. Note that this is an old, abandoned project and has some design flaws - I started making it as a kid. It took me a very long time to get to this point.
+An unfinished 3D game where the player has to survive on an island, written in C++14. Almost entirely made from scratch (rendering done by Irrlicht). Note that this is an old project and has some design flaws - I started making it as a kid. It took me a very long time to get to this point.
 
 # Screenshots
 <img src="http://i.imgur.com/uEluhvf.png">
